@@ -1,0 +1,1044 @@
+# NDX Technologies Product Category
+# Version: v26180001
+1,Tierbedarf
+2,Tierbedarf / Tiergesundheit
+3,Tierbedarf / Tiergesundheit / Veterinärmedizin
+4,Tierbedarf / Nutztierbedarf
+5,Tierbedarf / Tierfutter
+6,Tierbedarf / Tierfutter / Katzenfutter
+7,Tierbedarf / Leckerlis
+8,Bekleidung
+9,Bekleidung & Accessoires
+10,Bekleidung & Accessoires / Accessoires
+11,Bekleidung & Accessoires / Accessoires / Schlüsselanhänger
+12,Bekleidung & Accessoires / Kleidung
+13,Bekleidung & Accessoires / Kleidung / Sportbekleidung
+14,Bekleidung / Accessoires
+15,Bekleidung / Accessoires / Taschen & Koffer
+16,Bekleidung / Accessoires / Taschen & Koffer / Handtaschen
+17,Bekleidung / Accessoires / Ohrenwärmer
+18,Bekleidung / Accessoires / Gesichtsmasken
+19,Bekleidung / Accessoires / Sonnenbrillen
+20,Bekleidung / Accessoires / Geldbörsen
+21,Bekleidung / Accessoires / Uhren
+22,Bekleidung / Kleidung
+23,Bekleidung / Kleidung / Unterteile
+24,Bekleidung / Kleidung / Unterteile / Hosen
+25,Bekleidung / Kleidung / Unterteile / Shorts
+26,Bekleidung / Kleidung / Unterteile / Röcke
+27,Bekleidung / Kleidung / Kleider
+28,Bekleidung / Kleidung / Jumpsuits
+29,Bekleidung / Kleidung / Oberbekleidung
+30,Bekleidung / Kleidung / Saris
+31,Bekleidung / Kleidung / Sets
+32,Bekleidung / Kleidung / Nacht- & Loungewear
+33,Bekleidung / Kleidung / Socken
+34,Bekleidung / Kleidung / Bademode
+35,Bekleidung / Kleidung / Oberteile
+36,Bekleidung / Kleidung / Unterwäsche
+37,Bekleidung / Schuhe
+38,Bekleidung / Schuhe / Sportschuhe
+39,Bekleidung / Schuhe / Sandalen
+40,Bekleidung / Schuhe / Schuhe
+41,Bekleidung / Schuhe / Hausschuhe
+42,Bekleidung / Kopfbedeckungen
+43,Bekleidung / Kopfbedeckungen / Kappen
+44,Bekleidung / Schmuck
+45,Bekleidung / Schmuck / Schmucksets
+46,Bekleidung / Schmuck / Halsketten
+47,Bekleidung / Schmuck / Ringe
+48,Bekleidung / Schmuck / Uhren
+49,Kunst
+50,Kunst / Skulpturen
+51,Automobil
+52,Automobil / Zubehör
+53,Automobil / Kraftstoff
+54,Automobil / Ersatzteile
+55,Babypflege
+56,Babypflege / Baden & Duschen
+57,Babypflege / Windeln
+58,Babypflege / Nahrung & Milchnahrung
+59,Babypflege / Nahrung & Milchnahrung / Brei
+60,Babypflege / Nahrung & Milchnahrung / Snacks
+61,Babypflege / Körperpflege
+62,Babypflege / Körperpflege / Babywaschlotion & Shampoo
+63,Babypflege / Körperpflege / Windelpflege
+64,Babypflege / Körperpflege / Zahnpflege
+65,Babypflege / Körperpflege / Feuchttücher
+66,Backwaren
+67,Backwaren / Bagels
+68,Backwaren / Brötchen
+69,Backwaren / Donuts
+70,Backwaren / Muffins
+71,Bankwesen
+72,Bankwesen / Gebühren
+73,Getränke
+74,Getränke / Alkoholische Getränke
+75,Getränke / Alkoholische Getränke / Bier
+76,Getränke / Alkoholische Getränke / Cocktails & Mixgetränke
+77,Getränke / Alkoholische Getränke / Wein
+78,Getränke / Kaffee & Tee
+79,Getränke / Kaffee & Tee / Kaffee
+80,Getränke / Kaffee & Tee / Kaffee / Cold Brew
+81,Getränke / Kaffee & Tee / Kaffee / Espresso
+82,Getränke / Kaffee & Tee / Instant-Mischungen
+83,Getränke / Kaffee & Tee / Eistee
+84,Getränke / Kaffee & Tee / Tee
+85,Getränke / Kaffee & Tee / Tee / Grüner Tee
+86,Getränke / Milch- & Pflanzendrinks
+87,Getränke / Milch- & Pflanzendrinks / Sauermilchgetränke
+88,Getränke / Milch- & Pflanzendrinks / Milch
+89,Getränke / Milch- & Pflanzendrinks / Milchalternativen
+90,Getränke / Saft
+91,Getränke / Saft / Orangensaft
+92,Getränke / Saft / Getränkepulver
+93,Getränke / Saft / Fruchtsaftschorle
+94,Getränke / Getränkepulver
+95,Getränke / Shakes & Smoothies
+96,Getränke
+97,Getränke / Alkoholische Getränke
+98,Getränke / Alkoholische Getränke / Bier
+99,Getränke / Alkoholische Getränke / Wein
+100,Getränke / Kaffee & Tee
+101,Getränke / Kaffee & Tee / Kaffee
+102,Getränke / Kaffee & Tee / Kaffee / Espresso
+103,Getränke / Kaffee & Tee / Tee
+104,Getränke / Kaffee & Tee / Tee / Milchtee
+105,Getränke / Kaffee & Tee / Tee / Teebeutel
+106,Getränke / Kaffee & Tee / Tee / Teepads & Kapseln
+107,Getränke / Milch & Pflanzendrinks
+108,Getränke / Milch & Pflanzendrinks / Milch
+109,Getränke / Milch & Pflanzendrinks / Milch / Kondensmilch
+110,Getränke / Milch & Pflanzendrinks / Milch / Frischmilch
+111,Getränke / Milch & Pflanzendrinks / Milchalternativen
+112,Getränke / Milch & Pflanzendrinks / Joghurt & Kefir
+113,Getränke / Milch & Pflanzendrinks / Joghurt & Kefir / Trinkjoghurt
+114,Getränke / Milch & Pflanzendrinks / Joghurt & Kefir / Griechischer Joghurt
+115,Getränke / Milch & Pflanzendrinks / Joghurt & Kefir / Kefir
+116,Getränke / Energie- & Sportgetränke
+117,Getränke / Heiße Schokolade
+118,Getränke / Saft
+119,Getränke / Saft / Apfelsaft
+120,Getränke / Saft / Orangensaft
+121,Getränke / Saft / Maracujasaft
+122,Getränke / Saft / Fruchtsaftschorle
+123,Getränke / Saft / Tomatensaft
+124,Getränke / Shakes & Smoothies
+125,Getränke / Shakes & Smoothies / Protein-Shakes
+126,Getränke / Erfrischungsgetränke
+127,Getränke / Erfrischungsgetränke / Cola
+128,Getränke / Erfrischungsgetränke / Aromatisierte Limonaden
+129,Getränke / Erfrischungsgetränke / Kombucha
+130,Getränke / Wasser
+131,Getränke / Wasser / Mineralwasser
+132,Getränke / Wasser / Sprudelwasser
+133,Bücher
+134,Bücher & Zeitschriften
+135,Bücher & Zeitschriften / Zeitschriften
+136,Bücher / Belletristik
+137,Bücher / Belletristik / Kinderbücher
+138,Bücher / Sachbücher
+139,Bücher / Sachbücher / Bildung
+140,Bücher / Sachbücher / Essays
+141,Bücher / Religiöse Bücher
+142,Gewerbe & Industrie
+143,Gewerbe & Industrie / Baumaterialien
+144,Kleidung
+145,Kleidung / Kinderkleidung
+146,Kleidung / Schuhe
+147,Kleidung / Schuhe / Sneaker
+148,Basteln & Hobby
+149,Basteln & Hobby / Bastelbedarf
+150,Basteln & Hobby / Bastelbedarf / Acryl
+151,Basteln & Hobby / Modellbausätze
+152,Basteln & Hobby / Aufkleber
+153,Rabatte & Gutscheine
+154,Rabatte & Gutscheine / Geschenkkarten & Gutscheine
+155,Elektronik
+156,Elektronik / Audio
+157,Elektronik / Audio / Kopfhörer & Ohrhörer
+158,Elektronik / Batterien
+159,Elektronik / Batterien / Knopfzellen
+160,Elektronik / Computerzubehör
+161,Elektronik / Computerzubehör / Adapter
+162,Elektronik / Computerzubehör / Eingabestifte
+163,Elektronik / E-Reader
+164,Elektronik / Haushaltsgeräte
+165,Elektronik / Haushaltsgeräte / Ventilatoren
+166,Elektronik / Beleuchtung
+167,Elektronik / Mediaplayer
+168,Elektronik / Handyzubehör
+169,Elektronik / Handyzubehör / Kabel & Ladegeräte
+170,Elektronik / Handyzubehör / Hüllen & Cover
+171,Elektronik / Handyzubehör / Halterungen
+172,Elektronik / Handyzubehör / Displayschutzfolien
+173,Elektronik / Mobiltelefone
+174,Elektronik / Stromzubehör
+175,Elektronik / Stromzubehör / Powerbanks
+176,Elektronik / Stromzubehör / Steckdosenleisten & Überspannungsschutz
+177,Elektronik / Fernbedienungen
+178,Elektronik / Wearables
+179,Elektronik / Wearables / Smartwatches
+180,Beschäftigung & Gehaltsabrechnung
+181,Beschäftigung & Gehaltsabrechnung / Anpassungen
+182,Beschäftigung & Gehaltsabrechnung / Boni
+183,Beschäftigung & Gehaltsabrechnung / Einkommen
+184,Unterhaltung
+185,Unterhaltung / DVDs
+186,Unterhaltung / Tickets
+187,Unterhaltung / Tickets / Kinotickets
+188,Gebühren & Kosten
+189,Gebühren & Kosten / Tütengebühren
+190,Gebühren & Kosten / Pfand
+191,Gebühren & Kosten / Transaktionsanpassungen
+192,Finanzdienstleistungen
+193,Lebensmittel
+194,Lebensmittel & Getränke
+195,Lebensmittel & Getränke / Getränke
+196,Lebensmittel & Getränke / Getränke / Alkoholische Getränke
+197,Lebensmittel & Getränke / Getränke / Alkoholische Getränke / Bier
+198,Lebensmittel & Getränke / Getränke / Erfrischungsgetränke
+199,Lebensmittel & Getränke / Lebensmittel
+200,Lebensmittel & Getränke / Lebensmittel / Snacks
+201,Lebensmittel & Getränke / Lebensmittel / Snacks / Schokolade
+202,Lebensmittel & Getränke
+203,Lebensmittel & Getränke / Alkoholische Getränke
+204,Lebensmittel & Getränke / Alkoholische Getränke / Bier
+205,Lebensmittel & Getränke / Alkoholische Getränke / Mischgetränke
+206,Lebensmittel & Getränke / Meeresfrüchte
+207,Lebensmittel / Vorspeisen
+208,Lebensmittel / Asiatische Lebensmittel
+209,Lebensmittel / Asiatische Lebensmittel / Chinesische Lebensmittel
+210,Lebensmittel / Asiatische Lebensmittel / Japanische Lebensmittel
+211,Lebensmittel / Asiatische Lebensmittel / Koreanische Lebensmittel
+212,Lebensmittel / Asiatische Lebensmittel / Koreanische Lebensmittel / Reiskuchen
+213,Lebensmittel / Asiatische Lebensmittel / Thailändische Lebensmittel
+214,Lebensmittel / Backwaren
+215,Lebensmittel / Backwaren / Bagels
+216,Lebensmittel / Backwaren / Brot
+217,Lebensmittel / Backwaren / Brownies
+218,Lebensmittel / Backwaren / Brötchen
+219,Lebensmittel / Backwaren / Kuchen
+220,Lebensmittel / Backwaren / Kuchen / Käsekuchen
+221,Lebensmittel / Backwaren / Kuchen / Schichttorte
+222,Lebensmittel / Backwaren / Kuchen / Biskuitrolle
+223,Lebensmittel / Backwaren / Keksteig
+224,Lebensmittel / Backwaren / Kekse & Gebäck
+225,Lebensmittel / Backwaren / Kekse & Gebäck / Waffeln
+226,Lebensmittel / Backwaren / Crêpes
+227,Lebensmittel / Backwaren / Croissants
+228,Lebensmittel / Backwaren / Donuts
+229,Lebensmittel / Backwaren / Muffins
+230,Lebensmittel / Backwaren / Pfannkuchen
+231,Lebensmittel / Backwaren / Panettone
+232,Lebensmittel / Backwaren / Feingebäck
+233,Lebensmittel / Backwaren / Feingebäck / Plundergebäck
+234,Lebensmittel / Backwaren / Feingebäck / Macarons
+235,Lebensmittel / Backwaren / Feingebäck / Herzhaftes Gebäck
+236,Lebensmittel / Backwaren / Feingebäck / Süße Brötchen
+237,Lebensmittel / Backwaren / Pies
+238,Lebensmittel / Backwaren / Pies / Mince Pies
+239,Lebensmittel / Backwaren / Pies / Herzhafte Pies
+240,Lebensmittel / Backwaren / Scones
+241,Lebensmittel / Backwaren / Törtchen
+242,Lebensmittel / Backwaren / Toast
+243,Lebensmittel / Backwaren / Tortillas
+244,Lebensmittel / Backwaren / Waffeln
+245,Lebensmittel / Backen & Kochen
+246,Lebensmittel / Backen & Kochen / Dessertmischungen
+247,Lebensmittel / Backzutaten
+248,Lebensmittel / Backzutaten / Natron
+249,Lebensmittel / Backzutaten / Paniermehl
+250,Lebensmittel / Backzutaten / Mehl
+251,Lebensmittel / Backzutaten / Pizzateig
+252,Lebensmittel / Backzutaten / Sirup & Süßungsmittel
+253,Lebensmittel / Getränke
+254,Lebensmittel / Getränke / Alkoholische Getränke
+255,Lebensmittel / Getränke / Alkoholische Getränke / Bier
+256,Lebensmittel / Getränke / Alkoholische Getränke / Apfelwein
+257,Lebensmittel / Getränke / Alkoholische Getränke / Cocktails & Mischgetränke
+258,Lebensmittel / Getränke / Alkoholische Getränke / Gin
+259,Lebensmittel / Getränke / Alkoholische Getränke / Liköre & Aperitifs
+260,Lebensmittel / Getränke / Alkoholische Getränke / Sake
+261,Lebensmittel / Getränke / Alkoholische Getränke / Soju
+262,Lebensmittel / Getränke / Alkoholische Getränke / Spirituosen
+263,Lebensmittel / Getränke / Alkoholische Getränke / Whisky
+264,Lebensmittel / Getränke / Alkoholische Getränke / Wein
+265,Lebensmittel / Getränke / Schokoladengetränke
+266,Lebensmittel / Getränke / Kaffee
+267,Lebensmittel / Getränke / Kaffee / Kaffeegetränke
+268,Lebensmittel / Getränke / Kaffee / Kaffeepads & Kapseln
+269,Lebensmittel / Getränke / Kaffee / Cold Brew
+270,Lebensmittel / Getränke / Kaffee / Espresso
+271,Lebensmittel / Getränke / Kaffee / Gemahlener Kaffee & Kaffeebohnen
+272,Lebensmittel / Getränke / Kaffee / Instantkaffee
+273,Lebensmittel / Getränke / Kaffee / Fertigkaffee
+274,Lebensmittel / Getränke / Milchgetränke
+275,Lebensmittel / Getränke / Milchgetränke / Milchmischgetränke
+276,Lebensmittel / Getränke / Milchgetränke / Milch
+277,Lebensmittel / Getränke / Milchgetränke / Joghurt & Kefir
+278,Lebensmittel / Getränke / Getränkezusätze
+279,Lebensmittel / Getränke / Energie- & Sportgetränke
+280,Lebensmittel / Getränke / Energie- & Sportgetränke / Energy Drinks
+281,Lebensmittel / Getränke / Funktionelle & Gesundheitsgetränke
+282,Lebensmittel / Getränke / Saft
+283,Lebensmittel / Getränke / Saft / Apfelsaft
+284,Lebensmittel / Getränke / Saft / Kokoswasser
+285,Lebensmittel / Getränke / Saft / Traubensaft
+286,Lebensmittel / Getränke / Saft / Saftmischungen
+287,Lebensmittel / Getränke / Saft / Mangosaft
+288,Lebensmittel / Getränke / Saft / Orangensaft
+289,Lebensmittel / Getränke / Saft / Passionsfruchtsaft
+290,Lebensmittel / Getränke / Saft / Erdbeersaft
+291,Lebensmittel / Getränke / Mixer
+292,Lebensmittel / Getränke / Mixer / Tonic Water
+293,Lebensmittel / Getränke / Alkoholfreies Bier
+294,Lebensmittel / Getränke / Pflanzliche Getränke
+295,Lebensmittel / Getränke / Pflanzliche Getränke / Mandelmilch
+296,Lebensmittel / Getränke / Pflanzliche Getränke / Kokosmilch
+297,Lebensmittel / Getränke / Pflanzliche Getränke / Hafermilch
+298,Lebensmittel / Getränke / Pflanzliche Getränke / Sojamilch
+299,Lebensmittel / Getränke / Shakes
+300,Lebensmittel / Getränke / Shakes / Proteinshakes
+301,Lebensmittel / Getränke / Smoothies
+302,Lebensmittel / Getränke / Erfrischungsgetränke
+303,Lebensmittel / Getränke / Erfrischungsgetränke / Cola
+304,Lebensmittel / Getränke / Erfrischungsgetränke / Fruchtlimonaden
+305,Lebensmittel / Getränke / Erfrischungsgetränke / Ginger Ale
+306,Lebensmittel / Getränke / Erfrischungsgetränke / Kombucha
+307,Lebensmittel / Getränke / Erfrischungsgetränke / Limonade
+308,Lebensmittel / Getränke / Spezialgetränke
+309,Lebensmittel / Getränke / Tee
+310,Lebensmittel / Getränke / Tee / Schwarztee
+311,Lebensmittel / Getränke / Tee / Grüntee
+312,Lebensmittel / Getränke / Tee / Kräutertee
+313,Lebensmittel / Getränke / Tee / Milchtee
+314,Lebensmittel / Getränke / Tee / Oolong-Tee
+315,Lebensmittel / Getränke / Tee / Eistee
+316,Lebensmittel / Getränke / Tee / Sprudeltee
+317,Lebensmittel / Getränke / Tee / Tee-Latte
+318,Lebensmittel / Getränke / Wasser
+319,Lebensmittel / Getränke / Wasser / Mineralwasser mit Kohlensäure
+320,Lebensmittel / Getränke / Wasser / Stilles Wasser
+321,Lebensmittel / Süßwaren
+322,Lebensmittel / Süßwaren / Schokolade
+323,Lebensmittel / Konserven
+324,Lebensmittel / Konserven / Bohnen
+325,Lebensmittel / Konserven / Fisch
+326,Lebensmittel / Konserven / Fisch / Sardinen
+327,Lebensmittel / Konserven / Fisch / Thunfisch
+328,Lebensmittel / Konserven / Obst
+329,Lebensmittel / Konserven / Fleisch
+330,Lebensmittel / Konserven / Oliven
+331,Lebensmittel / Konserven / Suppen
+332,Lebensmittel / Konserven / Gemüse
+333,Lebensmittel / Konserven / Gemüse / Mais
+334,Lebensmittel / Konserven / Gemüse / Erbsen
+335,Lebensmittel / Konserven / Gemüse / Tomaten
+336,Lebensmittel / Getreideprodukte
+337,Lebensmittel / Getreideprodukte / Granola
+338,Lebensmittel / Getreideprodukte / Müsli
+339,Lebensmittel / Getreideprodukte / Haferflocken
+340,Lebensmittel / Getreideprodukte / Porridge
+341,Lebensmittel / Gewürze & Saucen
+342,Lebensmittel / Gewürze & Saucen / Bohnen- & Sojapasten
+343,Lebensmittel / Gewürze & Saucen / Kochsaucen
+344,Lebensmittel / Gewürze & Saucen / Dips
+345,Lebensmittel / Gewürze & Saucen / Glasuren & Marinaden
+346,Lebensmittel / Gewürze & Saucen / Scharfe Saucen
+347,Lebensmittel / Gewürze & Saucen / Mayonnaise
+348,Lebensmittel / Gewürze & Saucen / Senf
+349,Lebensmittel / Gewürze & Saucen / Salatdressings
+350,Lebensmittel / Gewürze & Saucen / Sojasauce
+351,Lebensmittel / Gewürze & Saucen / Spezialitätensaucen
+352,Lebensmittel / Gewürze & Saucen / Brotaufstriche
+353,Lebensmittel / Gewürze & Saucen / Brotaufstriche / Chutneys & Relishes
+354,Lebensmittel / Gewürze & Saucen / Sirup & Süßungsmittel
+355,Lebensmittel / Gewürze & Saucen / Sirup & Süßungsmittel / Honig
+356,Lebensmittel / Gewürze & Saucen / Sirup & Süßungsmittel / Ahornsirup
+357,Lebensmittel / Gewürze & Saucen / Tafelsaucen
+358,Lebensmittel / Gewürze & Saucen / Essig
+359,Lebensmittel / Gewürze & Saucen / Essig / Apfelessig
+360,Lebensmittel / Gewürze & Saucen / Essig / Balsamico-Essig
+361,Lebensmittel / Süßwaren
+362,Lebensmittel / Süßwaren / Bonbons
+363,Lebensmittel / Süßwaren / Bonbons / Fruchtgummi
+364,Lebensmittel / Süßwaren / Kaugummi
+365,Lebensmittel / Süßwaren / Schokolade
+366,Lebensmittel / Süßwaren / Schokolade / Pralinen
+367,Lebensmittel / Süßwaren / Schokolade / Schokofrüchte
+368,Lebensmittel / Süßwaren / Schokolade / Pralinenschachteln
+369,Lebensmittel / Süßwaren / Schokolade / Zartbitterschokolade
+370,Lebensmittel / Süßwaren / Schokolade / Vollmilchschokolade
+371,Lebensmittel / Süßwaren / Schokolade / Weiße Schokolade
+372,Lebensmittel / Süßwaren / Fudge
+373,Lebensmittel / Süßwaren / Pfefferminzbonbons
+374,Lebensmittel / Kochzutaten
+375,Lebensmittel / Kochzutaten / Brühe
+376,Lebensmittel / Kochzutaten / Speiseöl
+377,Lebensmittel / Kochzutaten / Speiseöl / Avocadoöl
+378,Lebensmittel / Kochzutaten / Speiseöl / Kokosöl
+379,Lebensmittel / Kochzutaten / Speiseöl / Speiseölspray
+380,Lebensmittel / Kochzutaten / Speiseöl / Olivenöl
+381,Lebensmittel / Kochzutaten / Fruchtmark
+382,Lebensmittel / Kochzutaten / Hülsenfrüchte
+383,Lebensmittel / Molkereiprodukte & Eier
+384,Lebensmittel / Molkereiprodukte & Eier / Butter & Margarine
+385,Lebensmittel / Molkereiprodukte & Eier / Käse
+386,Lebensmittel / Molkereiprodukte & Eier / Käse / Blauschimmelkäse
+387,Lebensmittel / Molkereiprodukte & Eier / Käse / Brie
+388,Lebensmittel / Molkereiprodukte & Eier / Käse / Cheddar
+389,Lebensmittel / Molkereiprodukte & Eier / Käse / Streichkäse
+390,Lebensmittel / Molkereiprodukte & Eier / Käse / Hüttenkäse
+391,Lebensmittel / Molkereiprodukte & Eier / Käse / Frischkäse
+392,Lebensmittel / Molkereiprodukte & Eier / Käse / Dessertkäse
+393,Lebensmittel / Molkereiprodukte & Eier / Käse / Edamer
+394,Lebensmittel / Molkereiprodukte & Eier / Käse / Feta
+395,Lebensmittel / Molkereiprodukte & Eier / Käse / Ziegenkäse
+396,Lebensmittel / Molkereiprodukte & Eier / Käse / Hartkäse
+397,Lebensmittel / Molkereiprodukte & Eier / Käse / Mozzarella
+398,Lebensmittel / Molkereiprodukte & Eier / Käse / Schmelzkäse
+399,Lebensmittel / Molkereiprodukte & Eier / Käse / Snack-Käse
+400,Lebensmittel / Molkereiprodukte & Eier / Käse / Weichkäse
+401,Lebensmittel / Molkereiprodukte & Eier / Kondensmilch
+402,Lebensmittel / Molkereiprodukte & Eier / Sahne
+403,Lebensmittel / Molkereiprodukte & Eier / Quark
+404,Lebensmittel / Molkereiprodukte & Eier / Milchalternativen
+405,Lebensmittel / Molkereiprodukte & Eier / Milchalternativen / Sahnealternativen
+406,Lebensmittel / Molkereiprodukte & Eier / Milchalternativen / Pflanzendrinks
+407,Lebensmittel / Molkereiprodukte & Eier / Milchalternativen / Joghurtalternativen
+408,Lebensmittel / Molkereiprodukte & Eier / Eier
+409,Lebensmittel / Molkereiprodukte & Eier / Eier / Bio-Eier
+410,Lebensmittel / Molkereiprodukte & Eier / Dosenmilch
+411,Lebensmittel / Molkereiprodukte & Eier / Kefir
+412,Lebensmittel / Molkereiprodukte & Eier / Milch
+413,Lebensmittel / Molkereiprodukte & Eier / Milch / Frischmilch
+414,Lebensmittel / Molkereiprodukte & Eier / Milch / H-Milch
+415,Lebensmittel / Molkereiprodukte & Eier / Milch / Magermilch
+416,Lebensmittel / Molkereiprodukte & Eier / Milch / Vollmilch
+417,Lebensmittel / Molkereiprodukte & Eier / Joghurt
+418,Lebensmittel / Molkereiprodukte & Eier / Joghurt / Trinkjoghurt
+419,Lebensmittel / Molkereiprodukte & Eier / Joghurt / Griechischer Joghurt
+420,Lebensmittel / Molkereiprodukte / Butter
+421,Lebensmittel / Molkereiprodukte / Kondensmilch
+422,Lebensmittel / Molkereiprodukte / Sahne
+423,Lebensmittel / Molkereiprodukte / Eier
+424,Lebensmittel / Molkereiprodukte / Milch / Magermilch
+425,Lebensmittel / Molkereiprodukte / Joghurt & Kefir / Kefir
+426,Lebensmittel / Feinkost
+427,Lebensmittel / Feinkost / Pastete
+428,Lebensmittel / Desserts
+429,Lebensmittel / Desserts / Kuchen
+430,Lebensmittel / Desserts / Kuchen / Brownies
+431,Lebensmittel / Desserts / Kuchen / Käsekuchen
+432,Lebensmittel / Desserts / Kuchen / Biskuitrollen
+433,Lebensmittel / Desserts / Gefrorene Desserts
+434,Lebensmittel / Desserts / Gefrorene Desserts / Gelato
+435,Lebensmittel / Desserts / Gefrorene Desserts / Speiseeis
+436,Lebensmittel / Desserts / Gefrorene Desserts / Mochi-Eis
+437,Lebensmittel / Desserts / Gefrorene Desserts / Sorbet
+438,Lebensmittel / Desserts / Gefrorene Getränke
+439,Lebensmittel / Desserts / Speiseeis
+440,Lebensmittel / Desserts / Wackelpudding
+441,Lebensmittel / Desserts / Baiser
+442,Lebensmittel / Desserts / Mochi
+443,Lebensmittel / Desserts / Mont Blanc
+444,Lebensmittel / Desserts / Mousse
+445,Lebensmittel / Desserts / Kuchen & Torten
+446,Lebensmittel / Desserts / Pudding
+447,Lebensmittel / Desserts / Reisdesserts
+448,Lebensmittel / Desserts / Wassereis
+449,Lebensmittel / Desserts / Tiramisu
+450,Lebensmittel / Dim Sum
+451,Lebensmittel / Trockenfrüchte
+452,Lebensmittel / Fermentierte Lebensmittel
+453,Lebensmittel / Fermentierte Lebensmittel / Kimchi
+454,Lebensmittel / Frischeprodukte
+455,Lebensmittel / Frischeprodukte / Geschnittenes Obst
+456,Lebensmittel / Frischeprodukte / Obst
+457,Lebensmittel / Frischeprodukte / Obst / Äpfel
+458,Lebensmittel / Frischeprodukte / Obst / Avocados
+459,Lebensmittel / Frischeprodukte / Obst / Bananen
+460,Lebensmittel / Frischeprodukte / Obst / Beeren
+461,Lebensmittel / Frischeprodukte / Obst / Kirschen
+462,Lebensmittel / Frischeprodukte / Obst / Zitrusfrüchte
+463,Lebensmittel / Frischeprodukte / Obst / Kokosnüsse
+464,Lebensmittel / Frischeprodukte / Obst / Drachenfrüchte
+465,Lebensmittel / Frischeprodukte / Obst / Weintrauben
+466,Lebensmittel / Frischeprodukte / Obst / Guaven
+467,Lebensmittel / Frischeprodukte / Obst / Kiwis
+468,Lebensmittel / Frischeprodukte / Obst / Zitronen
+469,Lebensmittel / Frischeprodukte / Obst / Litschis
+470,Lebensmittel / Frischeprodukte / Obst / Mandarinen
+471,Lebensmittel / Frischeprodukte / Obst / Mangos
+472,Lebensmittel / Frischeprodukte / Obst / Melonen
+473,Lebensmittel / Frischeprodukte / Obst / Orangen
+474,Lebensmittel / Frischeprodukte / Obst / Papayas
+475,Lebensmittel / Frischeprodukte / Obst / Pfirsiche
+476,Lebensmittel / Frischeprodukte / Obst / Kakis
+477,Lebensmittel / Frischeprodukte / Obst / Ananas
+478,Lebensmittel / Frischeprodukte / Obst / Pflaumen
+479,Lebensmittel / Frischeprodukte / Obst / Granatäpfel
+480,Lebensmittel / Frischeprodukte / Obst / Steinobst
+481,Lebensmittel / Frischeprodukte / Obst
+482,Lebensmittel / Frischeprodukte / Obst / Äpfel
+483,Lebensmittel / Frischeprodukte / Obst / Avocados
+484,Lebensmittel / Frischeprodukte / Obst / Bananen
+485,Lebensmittel / Frischeprodukte / Obst / Kirschen
+486,Lebensmittel / Frischeprodukte / Obst / Zitrusfrüchte
+487,Lebensmittel / Frischeprodukte / Obst / Grapefruits
+488,Lebensmittel / Frischeprodukte / Obst / Weintrauben
+489,Lebensmittel / Frischeprodukte / Obst / Mangos
+490,Lebensmittel / Frischeprodukte / Obst / Melonen
+491,Lebensmittel / Frischeprodukte / Obst / Obstmischungen
+492,Lebensmittel / Frischeprodukte / Obst / Orangen
+493,Lebensmittel / Frischeprodukte / Obst / Papayas
+494,Lebensmittel / Frischeprodukte / Obst / Birnen
+495,Lebensmittel / Frischeprodukte / Obst / Kakis
+496,Lebensmittel / Frischeprodukte / Obst / Pomelos
+497,Lebensmittel / Frischeprodukte / Obst / Sweeties
+498,Lebensmittel / Frischeprodukte / Gemüse
+499,Lebensmittel / Frischeprodukte / Gemüse / Karotten
+500,Lebensmittel / Frischeprodukte / Gemüse / Knoblauch
+501,Lebensmittel / Frischeprodukte / Gemüse / Blattgemüse
+502,Lebensmittel / Frischeprodukte / Gemüse / Salat
+503,Lebensmittel / Frischeprodukte / Gemüse / Pilze
+504,Lebensmittel / Frischeprodukte / Gemüse / Zwiebeln
+505,Lebensmittel / Frischeprodukte / Gemüse / Paprika
+506,Lebensmittel / Frischeprodukte / Gemüse / Kartoffeln
+507,Lebensmittel / Frischeprodukte / Gemüse / Kürbisse
+508,Lebensmittel / Frischeprodukte / Gemüse / Radieschen
+509,Lebensmittel / Frischeprodukte / Gemüse / Wurzelgemüse
+510,Lebensmittel / Frischeprodukte / Gemüse / Sprossen
+511,Lebensmittel / Frischeprodukte / Gemüse / Kürbisgewächse
+512,Lebensmittel / Frischeprodukte / Gemüse / Tomaten
+513,Lebensmittel / Frischeprodukte / Gemüse / Zucchini
+514,Lebensmittel / Tiefkühlkost
+515,Lebensmittel / Tiefkühlkost / Brot
+516,Lebensmittel / Tiefkühlkost / Desserts
+517,Lebensmittel / Tiefkühlkost / Desserts / Klebreisbällchen
+518,Lebensmittel / Tiefkühlkost / Desserts / Speiseeis
+519,Lebensmittel / Tiefkühlkost / Desserts / Eis am Stiel
+520,Lebensmittel / Tiefkühlkost / Desserts / Mochi-Eis
+521,Lebensmittel / Tiefkühlkost / Teigtaschen
+522,Lebensmittel / Tiefkühlkost / Fisch & Meeresfrüchte
+523,Lebensmittel / Tiefkühlkost / Obst
+524,Lebensmittel / Tiefkühlkost / Fleisch
+525,Lebensmittel / Tiefkühlkost / Pizza
+526,Lebensmittel / Tiefkühlkost / Kartoffelprodukte
+527,Lebensmittel / Tiefkühlkost / Kartoffelprodukte / Pommes Frites
+528,Lebensmittel / Tiefkühlkost / Fertiggerichte
+529,Lebensmittel / Tiefkühlkost / Fertiggerichte / Hähnchengerichte
+530,Lebensmittel / Tiefkühlkost / Fertiggerichte / Fleischgerichte
+531,Lebensmittel / Tiefkühlkost / Fertiggerichte / Pasteten
+532,Lebensmittel / Tiefkühlkost / Gemüse
+533,Lebensmittel / Getreide, Pasta & Nudeln
+534,Lebensmittel / Getreide, Pasta & Nudeln / Getreide
+535,Lebensmittel / Getreide, Pasta & Nudeln / Instant-Nudeln
+536,Lebensmittel / Getreide, Pasta & Nudeln / Instant-Nudeln / Ramen
+537,Lebensmittel / Getreide, Pasta & Nudeln / Nudeln
+538,Lebensmittel / Getreide, Pasta & Nudeln / Pasta
+539,Lebensmittel / Getreide, Pasta & Nudeln / Reis
+540,Lebensmittel / Konfitüren & Aufstriche
+541,Lebensmittel / Konfitüren & Aufstriche / Fruchtaufstriche
+542,Lebensmittel / Konfitüren & Aufstriche / Nussaufstriche
+543,Lebensmittel / Konfitüren & Aufstriche / Herzhafte Aufstriche
+544,Lebensmittel / Konfitüren & Aufstriche / Süße Aufstriche
+545,Lebensmittel / Konfitüren & Aufstriche / Hefeaufstriche
+546,Lebensmittel / Fertiggerichte
+547,Lebensmittel / Fertiggerichte / Nudelgerichte
+548,Lebensmittel / Fleisch & Meeresfrüchte
+549,Lebensmittel / Fleisch & Meeresfrüchte / Rindfleisch
+550,Lebensmittel / Fleisch & Meeresfrüchte / Rindfleisch / Burger
+551,Lebensmittel / Fleisch & Meeresfrüchte / Rindfleisch / Gulaschfleisch
+552,Lebensmittel / Fleisch & Meeresfrüchte / Rindfleisch / Hackfleisch
+553,Lebensmittel / Fleisch & Meeresfrüchte / Rindfleisch / Innereien
+554,Lebensmittel / Fleisch & Meeresfrüchte / Rindfleisch / Steaks
+555,Lebensmittel / Fleisch & Meeresfrüchte / Rindfleisch / Rumpsteak
+556,Lebensmittel / Fleisch & Meeresfrüchte / Wurst- & Aufschnittwaren
+557,Lebensmittel / Fleisch & Meeresfrüchte / Wurst- & Aufschnittwaren / Dosenfleisch
+558,Lebensmittel / Fleisch & Meeresfrüchte / Wurst- & Aufschnittwaren / Chorizo
+559,Lebensmittel / Fleisch & Meeresfrüchte / Wurst- & Aufschnittwaren / Schinken
+560,Lebensmittel / Fleisch & Meeresfrüchte / Wurst- & Aufschnittwaren / Fleischbällchen
+561,Lebensmittel / Fleisch & Meeresfrüchte / Wurst- & Aufschnittwaren / Pancetta
+562,Lebensmittel / Fleisch & Meeresfrüchte / Wurst- & Aufschnittwaren / Salami
+563,Lebensmittel / Fleisch & Meeresfrüchte / Wurst- & Aufschnittwaren / Würstchen
+564,Lebensmittel / Fleisch & Meeresfrüchte / Fisch
+565,Lebensmittel / Fleisch & Meeresfrüchte / Fisch / Fischrogen
+566,Lebensmittel / Fleisch & Meeresfrüchte / Fisch / Lachs
+567,Lebensmittel / Fleisch & Meeresfrüchte / Fisch / Räucherfisch
+568,Lebensmittel / Fleisch & Meeresfrüchte / Wild
+569,Lebensmittel / Fleisch & Meeresfrüchte / Lamm
+570,Lebensmittel / Fleisch & Meeresfrüchte / Schweinefleisch
+571,Lebensmittel / Fleisch & Meeresfrüchte / Schweinefleisch / Speck
+572,Lebensmittel / Fleisch & Meeresfrüchte / Schweinefleisch / Schweinebauch
+573,Lebensmittel / Fleisch & Meeresfrüchte / Schweinefleisch / Schweinerücken
+574,Lebensmittel / Fleisch & Meeresfrüchte / Schweinefleisch / Schweinerippchen
+575,Lebensmittel / Fleisch & Meeresfrüchte / Geflügel
+576,Lebensmittel / Fleisch & Meeresfrüchte / Geflügel / Hähnchen
+577,Lebensmittel / Fleisch & Meeresfrüchte / Geflügel / Hähnchenbrust
+578,Lebensmittel / Fleisch & Meeresfrüchte / Geflügel / Hähnchenunterkeulen
+579,Lebensmittel / Fleisch & Meeresfrüchte / Geflügel / Hähnchenschenkel
+580,Lebensmittel / Fleisch & Meeresfrüchte / Geflügel / Hähnchenflügel
+581,Lebensmittel / Fleisch & Meeresfrüchte / Geflügel / Ente
+582,Lebensmittel / Fleisch & Meeresfrüchte / Geflügel / Zubereitetes Hähnchen
+583,Lebensmittel / Fleisch & Meeresfrüchte / Geflügel / Ganzes Hähnchen
+584,Lebensmittel / Fleisch & Meeresfrüchte / Schalentiere
+585,Lebensmittel / Nüsse & Samen
+586,Lebensmittel / Nüsse & Samen / Mandeln
+587,Lebensmittel / Nüsse & Samen / Paranüsse
+588,Lebensmittel / Nüsse & Samen / Cashewkerne
+589,Lebensmittel / Nüsse & Samen / Esskastanien
+590,Lebensmittel / Nüsse & Samen / Macadamianüsse
+591,Lebensmittel / Nüsse & Samen / Erdnüsse
+592,Lebensmittel / Nüsse & Samen / Pekannüsse
+593,Lebensmittel / Nüsse & Samen / Pinienkerne
+594,Lebensmittel / Nüsse & Samen / Pistazien
+595,Lebensmittel / Nüsse & Samen / Samen
+596,Lebensmittel / Nüsse & Samen / Samen / Kürbiskerne
+597,Lebensmittel / Nüsse & Samen / Samen / Samenmischungen
+598,Lebensmittel / Nüsse & Samen / Samen / Sesamsamen
+599,Lebensmittel / Nüsse & Samen / Samen / Sonnenblumenkerne
+600,Lebensmittel / Nüsse & Samen / Walnüsse
+601,Lebensmittel / Vorratsschrank
+602,Lebensmittel / Vorratsschrank / Bohnen & Hülsenfrüchte
+603,Lebensmittel / Vorratsschrank / Frühstückscerealien
+604,Lebensmittel / Vorratsschrank / Frühstückscerealien / Porridge
+605,Lebensmittel / Vorratsschrank / Konserven
+606,Lebensmittel / Vorratsschrank / Konserven / Bohnen
+607,Lebensmittel / Vorratsschrank / Konserven / Fisch
+608,Lebensmittel / Vorratsschrank / Konserven / Fleisch
+609,Lebensmittel / Vorratsschrank / Konserven / Oliven
+610,Lebensmittel / Vorratsschrank / Konserven / Eingelegtes & Fermentiertes
+611,Lebensmittel / Vorratsschrank / Konserven / Tomaten
+612,Lebensmittel / Vorratsschrank / Konserven / Gemüse
+613,Lebensmittel / Vorratsschrank / Würzmittel & Saucen
+614,Lebensmittel / Vorratsschrank / Würzmittel & Saucen / Scharfe Sauce
+615,Lebensmittel / Vorratsschrank / Würzmittel & Saucen / Mayonnaise
+616,Lebensmittel / Vorratsschrank / Würzmittel & Saucen / Senf
+617,Lebensmittel / Vorratsschrank / Würzmittel & Saucen / Sonstige Saucen
+618,Lebensmittel / Vorratsschrank / Würzmittel & Saucen / Sojasauce
+619,Lebensmittel / Vorratsschrank / Trockenfrüchte
+620,Lebensmittel / Vorratsschrank / Mehl & Pulver
+621,Lebensmittel / Vorratsschrank / Fruchtmark
+622,Lebensmittel / Vorratsschrank / Getreide & Reis
+623,Lebensmittel / Vorratsschrank / Getreide & Reis / Hirse
+624,Lebensmittel / Vorratsschrank / Getreide & Reis / Quinoa
+625,Lebensmittel / Vorratsschrank / Getreide & Reis / Reis
+626,Lebensmittel / Vorratsschrank / Getreide & Reis / Reiswaffeln
+627,Lebensmittel / Vorratsschrank / Öle & Essige
+628,Lebensmittel / Vorratsschrank / Öle & Essige / Olivenöl
+629,Lebensmittel / Vorratsschrank / Öle & Essige / Erdnussöl
+630,Lebensmittel / Vorratsschrank / Öle & Essige / Pflanzenöl
+631,Lebensmittel / Vorratsschrank / Öle & Essige / Essig
+632,Lebensmittel / Vorratsschrank / Pasta & Nudeln
+633,Lebensmittel / Vorratsschrank / Pasta & Nudeln / Gefüllte Pasta
+634,Lebensmittel / Vorratsschrank / Pasta & Nudeln / Frische Pasta
+635,Lebensmittel / Vorratsschrank / Pasta & Nudeln / Instant-Nudeln
+636,Lebensmittel / Vorratsschrank / Pasta & Nudeln / Nudeln
+637,Lebensmittel / Vorratsschrank / Pasta & Nudeln / Pasta
+638,Lebensmittel / Vorratsschrank / Pasta & Nudeln / Udon
+639,Lebensmittel / Vorratsschrank / Hülsenfrüchte
+640,Lebensmittel / Vorratsschrank / Hülsenfrüchte / Sojabohnen
+641,Lebensmittel / Vorratsschrank / Algen
+642,Lebensmittel / Vorratsschrank / Suppen
+643,Lebensmittel / Vorratsschrank / Gewürze & Würzmittel
+644,Lebensmittel / Vorratsschrank / Gewürze & Würzmittel / Kräuter
+645,Lebensmittel / Vorratsschrank / Gewürze & Würzmittel / Pfeffer
+646,Lebensmittel / Vorratsschrank / Gewürze & Würzmittel / Salz
+647,Lebensmittel / Vorratsschrank / Gewürze & Würzmittel / Gewürzmischungen
+648,Lebensmittel / Vorratsschrank / Brotaufstriche
+649,Lebensmittel / Vorratsschrank / Brotaufstriche / Keksaufstriche
+650,Lebensmittel / Vorratsschrank / Brotaufstriche / Schokoladenaufstriche
+651,Lebensmittel / Vorratsschrank / Brotaufstriche / Konfitüren & Marmeladen
+652,Lebensmittel / Vorratsschrank / Brotaufstriche / Nussaufstriche
+653,Lebensmittel / Vorratsschrank / Brotaufstriche / Herzhafte Aufstriche
+654,Lebensmittel / Vorratsschrank / Süßungsmittel
+655,Lebensmittel / Vorratsschrank / Süßungsmittel / Honig
+656,Lebensmittel / Vorratsschrank / Süßungsmittel / Ahornsirup
+657,Lebensmittel / Vorratsschrank / Süßungsmittel / Sirupe
+658,Lebensmittel / Pflanzliche Alternativen
+659,Lebensmittel / Pflanzliche Alternativen / Fleischalternativen
+660,Lebensmittel / Pflanzliche Alternativen / Milchalternativen
+661,Lebensmittel / Pflanzliche Alternativen / Milchalternativen / Hafermilch
+662,Lebensmittel / Pflanzliche Alternativen / Brotaufstriche
+663,Lebensmittel / Pflanzliche Alternativen / Tofu
+664,Lebensmittel / Pflanzliche Alternativen / Joghurtalternativen
+665,Lebensmittel / Pflanzliche Alternativen / Joghurtalternativen / Trinkjoghurt
+666,Lebensmittel / Fertiggerichte
+667,Lebensmittel / Fertiggerichte / Beilagen
+668,Lebensmittel / Fertiggerichte
+669,Lebensmittel / Fertiggerichte / Vorspeisen
+670,Lebensmittel / Fertiggerichte / Asiatische Küche
+671,Lebensmittel / Fertiggerichte / Asiatische Küche / Dim Sum
+672,Lebensmittel / Fertiggerichte / Frühstück
+673,Lebensmittel / Fertiggerichte / Burger
+674,Lebensmittel / Fertiggerichte / Hähnchengerichte
+675,Lebensmittel / Fertiggerichte / Menüs
+676,Lebensmittel / Fertiggerichte / Desserts
+677,Lebensmittel / Fertiggerichte / Teigtaschen
+678,Lebensmittel / Fertiggerichte / Eierspeisen
+679,Lebensmittel / Fertiggerichte / Fladenbrote
+680,Lebensmittel / Fertiggerichte / Pommes Frites
+681,Lebensmittel / Fertiggerichte / Obstsalate
+682,Lebensmittel / Fertiggerichte / Hot Dogs
+683,Lebensmittel / Fertiggerichte / Fleischgerichte
+684,Lebensmittel / Fertiggerichte / Pasta & Nudeln
+685,Lebensmittel / Fertiggerichte / Pasta & Nudeln / Nudeln
+686,Lebensmittel / Fertiggerichte / Pasta & Nudeln / Pasta
+687,Lebensmittel / Fertiggerichte / Pasteten
+688,Lebensmittel / Fertiggerichte / Pizza
+689,Lebensmittel / Fertiggerichte / Porridge
+690,Lebensmittel / Fertiggerichte / Quiche
+691,Lebensmittel / Fertiggerichte / Reisgerichte
+692,Lebensmittel / Fertiggerichte / Reisgerichte / Hähnchen mit Reis
+693,Lebensmittel / Fertiggerichte / Salate
+694,Lebensmittel / Fertiggerichte / Sandwiches
+695,Lebensmittel / Fertiggerichte / Sandwiches / Croissant-Sandwich
+696,Lebensmittel / Fertiggerichte / Herzhaftes Gebäck
+697,Lebensmittel / Fertiggerichte / Meeresfrüchte
+698,Lebensmittel / Fertiggerichte / Beilagen
+699,Lebensmittel / Fertiggerichte / Beilagen / Kartoffelpüree
+700,Lebensmittel / Fertiggerichte / Sushi
+701,Lebensmittel / Fertiggerichte / Sushi / Sortiment
+702,Lebensmittel / Fertiggerichte / Sushi / Gunkan
+703,Lebensmittel / Fertiggerichte / Sushi / Nigiri
+704,Lebensmittel / Fertiggerichte / Sushi / Maki-Rollen
+705,Lebensmittel / Fertiggerichte / Gemüsegerichte
+706,Lebensmittel / Konserven
+707,Lebensmittel / Konserven / Dosenwaren
+708,Lebensmittel / Konserven / Oliven
+709,Lebensmittel / Konserven / Eingelegtes
+710,Lebensmittel / Konserven / Eingelegtes / Kimchi
+711,Lebensmittel / Obst & Gemüse
+712,Lebensmittel / Obst & Gemüse / Obst
+713,Lebensmittel / Obst & Gemüse / Obst / Äpfel
+714,Lebensmittel / Obst & Gemüse / Obst / Avocados
+715,Lebensmittel / Obst & Gemüse / Obst / Bananen
+716,Lebensmittel / Obst & Gemüse / Obst / Beeren
+717,Lebensmittel / Obst & Gemüse / Obst / Kirschen
+718,Lebensmittel / Obst & Gemüse / Obst / Kokosnüsse
+719,Lebensmittel / Obst & Gemüse / Obst / Kiwis
+720,Lebensmittel / Obst & Gemüse / Obst / Erdbeeren
+721,Lebensmittel / Obst & Gemüse / Gemüse
+722,Lebensmittel / Obst & Gemüse / Gemüse / Blattgemüse
+723,Lebensmittel / Obst & Gemüse / Gemüse / Salat
+724,Lebensmittel / Obst & Gemüse / Gemüse / Pilze
+725,Lebensmittel / Obst & Gemüse / Gemüse / Paprika
+726,Lebensmittel / Obst & Gemüse / Gemüse / Kürbisgewächse
+727,Lebensmittel / Obst & Gemüse / Gemüse / Tomaten
+728,Lebensmittel / Gastronomiebedarf
+729,Lebensmittel / Gastronomiebedarf / Buffet
+730,Lebensmittel / Gastronomiebedarf / Kaffee & Tee
+731,Lebensmittel / Gastronomiebedarf / Fischgerichte
+732,Lebensmittel / Gastronomiebedarf / Suppen
+733,Lebensmittel / Gastronomiebedarf / Tacos
+734,Lebensmittel / Saucen & Würzmittel
+735,Lebensmittel / Saucen & Würzmittel / Chilisaucen & Pasten
+736,Lebensmittel / Saucen & Würzmittel / Dips & Aufstriche
+737,Lebensmittel / Saucen & Würzmittel / Meerrettichsauce
+738,Lebensmittel / Saucen & Würzmittel / Mayonnaise
+739,Lebensmittel / Saucen & Würzmittel / Pesto
+740,Lebensmittel / Saucen & Würzmittel / Sojabohnenpaste
+741,Lebensmittel / Fisch & Meeresfrüchte
+742,Lebensmittel / Fisch & Meeresfrüchte / Trockenfisch
+743,Lebensmittel / Fisch & Meeresfrüchte / Fisch
+744,Lebensmittel / Fisch & Meeresfrüchte / Fisch / Lachs
+745,Lebensmittel / Fisch & Meeresfrüchte / Fischverarbeitung
+746,Lebensmittel / Fisch & Meeresfrüchte / Sashimi
+747,Lebensmittel / Fisch & Meeresfrüchte / Algen
+748,Lebensmittel / Fisch & Meeresfrüchte / Schalentiere
+749,Lebensmittel / Fisch & Meeresfrüchte / Räucherfisch
+750,Lebensmittel / Fisch & Meeresfrüchte / Räucherfisch / Räucherlachs
+751,Lebensmittel / Gewürze
+752,Lebensmittel / Gewürze / Salz
+753,Lebensmittel / Beilagen
+754,Lebensmittel / Snacks
+755,Lebensmittel / Snacks / Süßwaren & Schokolade
+756,Lebensmittel / Snacks / Süßwaren & Schokolade / Kaugummi
+757,Lebensmittel / Snacks / Süßwaren & Schokolade / Kaubonbons
+758,Lebensmittel / Snacks / Süßwaren & Schokolade / Schokoriegel
+759,Lebensmittel / Snacks / Süßwaren & Schokolade / Schokoüberzug
+760,Lebensmittel / Snacks / Süßwaren & Schokolade / Schokonüsse
+761,Lebensmittel / Snacks / Süßwaren & Schokolade / Fudge
+762,Lebensmittel / Snacks / Süßwaren & Schokolade / Fruchtgummi
+763,Lebensmittel / Snacks / Süßwaren & Schokolade / Bonbons
+764,Lebensmittel / Snacks / Süßwaren & Schokolade / Pfefferminzbonbons
+765,Lebensmittel / Snacks / Chips & Knabberartikel
+766,Lebensmittel / Snacks / Chips & Knabberartikel / Zwiebelringe
+767,Lebensmittel / Snacks / Chips & Knabberartikel / Kartoffelchips
+768,Lebensmittel / Snacks / Chips & Knabberartikel / Tortilla-Chips
+769,Lebensmittel / Snacks / Kekse & Gebäck
+770,Lebensmittel / Snacks / Kekse & Gebäck / Schokokekse
+771,Lebensmittel / Snacks / Kekse & Gebäck / Schokoüberzug
+772,Lebensmittel / Snacks / Kekse & Gebäck / Waffeln
+773,Lebensmittel / Snacks / Maiswaffeln
+774,Lebensmittel / Snacks / Cracker
+775,Lebensmittel / Snacks / Cracker / Knäckebrot
+776,Lebensmittel / Snacks / Trockenfrüchte & Nüsse
+777,Lebensmittel / Snacks / Trockenfrüchte & Nüsse / Trockenfrüchte
+778,Lebensmittel / Snacks / Trockenfrüchte & Nüsse / Nüsse & Kerne
+779,Lebensmittel / Snacks / Fruchtsnacks
+780,Lebensmittel / Snacks / Fruchtsnacks / Fruchtrollen
+781,Lebensmittel / Snacks / Fleischsnacks
+782,Lebensmittel / Snacks / Popcorn
+783,Lebensmittel / Snacks / Schweineschwarten
+784,Lebensmittel / Snacks / Salzgebäck
+785,Lebensmittel / Snacks / Reiswaffeln
+786,Lebensmittel / Snacks / Herzhafte Snacks
+787,Lebensmittel / Snacks / Algensnacks
+788,Lebensmittel / Snacks / Riegel
+789,Lebensmittel / Snacks / Riegel / Müsli- & Getreideriegel
+790,Lebensmittel / Suppen
+791,Lebensmittel / Gewürze & Würzmittel
+792,Lebensmittel / Gewürze & Würzmittel / Kräuter
+793,Lebensmittel / Gewürze & Würzmittel / Pfeffer
+794,Lebensmittel / Gewürze & Würzmittel / Salz
+795,Lebensmittel / Gewürze & Würzmittel / Gewürze
+796,Lebensmittel / Brotaufstriche
+797,Lebensmittel / Brotaufstriche / Butter & Margarine
+798,Lebensmittel / Brotaufstriche / Honig
+799,Lebensmittel / Brotaufstriche / Konfitüren & Marmeladen
+800,Lebensmittel / Brotaufstriche / Süße Aufstriche
+801,Lebensmittel / Brotaufstriche / Hefeextrakte
+802,Lebensmittel / Sushi
+803,Lebensmittel / Süßungsmittel
+804,Lebensmittel / Sirup
+805,Lebensmittel / Sirup / Honigsirup
+806,Lebensmittel / Sirup / Ahornsirup
+807,Lebensmittel / Gemüse
+808,Lebensmittel / Gemüse / Brokkoli
+809,Lebensmittel / Gemüse / Karotten
+810,Lebensmittel / Gemüse / Sellerie
+811,Lebensmittel / Gemüse / Gurken
+812,Lebensmittel / Gemüse / Knoblauch
+813,Lebensmittel / Gemüse / Lauch
+814,Lebensmittel / Gemüse / Salat
+815,Lebensmittel / Gemüse / Okra
+816,Lebensmittel / Gemüse / Paprika
+817,Lebensmittel / Gemüse / Wurzelgemüse
+818,Lebensmittel / Gemüse / Sprossen
+819,Lebensmittel / Gemüse / Kürbis & Zucchini
+820,Lebensmittel / Gemüse / Tomaten
+821,Lebensmittel / Gemüse / Tomaten / Kirschtomaten
+822,Lebensmittel / Gemüse / Zucchini
+823,Kraftstoffe & Mineralölprodukte
+824,Gesundheit & Schönheit
+825,Gesundheit & Schönheit / Körperpflege
+826,Gesundheit & Schönheit / Körperpflege / Geschenksets
+827,Gesundheit & Körperpflege
+828,Gesundheit & Körperpflege / Bad & Dusche
+829,Gesundheit & Körperpflege / Bad & Dusche / Seifenstücke
+830,Gesundheit & Körperpflege / Bad & Dusche / Badesalz & Schaumbad
+831,Gesundheit & Körperpflege / Bad & Dusche / Duschgel
+832,Gesundheit & Körperpflege / Bad & Dusche / Flüssigseife
+833,Gesundheit & Körperpflege / Watteprodukte
+834,Gesundheit & Körperpflege / Watteprodukte / Wattestäbchen
+835,Gesundheit & Körperpflege / Deodorants & Antitranspirante
+836,Gesundheit & Körperpflege / Damenhygiene
+837,Gesundheit & Körperpflege / Erste Hilfe
+838,Gesundheit & Körperpflege / Fußpflege
+839,Gesundheit & Körperpflege / Düfte
+840,Gesundheit & Körperpflege / Geschenksets
+841,Gesundheit & Körperpflege / Haarpflege
+842,Gesundheit & Körperpflege / Haarpflege / Haarspülung
+843,Gesundheit & Körperpflege / Haarpflege / Haarschmuck
+844,Gesundheit & Körperpflege / Haarpflege / Haarstyling
+845,Gesundheit & Körperpflege / Haarpflege / Haarkuren
+846,Gesundheit & Körperpflege / Haarpflege / Shampoo
+847,Gesundheit & Körperpflege / Handpflege
+848,Gesundheit & Körperpflege / Wärmekissen
+849,Gesundheit & Körperpflege / Inhalatoren
+850,Gesundheit & Körperpflege / Make-up
+851,Gesundheit & Körperpflege / Medikamente
+852,Gesundheit & Körperpflege / Zahnpflege
+853,Gesundheit & Körperpflege / Zahnpflege / Zahnseide
+854,Gesundheit & Körperpflege / Zahnpflege / Mundspülung
+855,Gesundheit & Körperpflege / Zahnpflege / Zahnpasta
+856,Gesundheit & Körperpflege / Persönliche Schutzausrüstung
+857,Gesundheit & Körperpflege / Rasur & Bartpflege
+858,Gesundheit & Körperpflege / Hautpflege
+859,Gesundheit & Körperpflege / Hautpflege / Körperlotion
+860,Gesundheit & Körperpflege / Hautpflege / Reinigungsprodukte
+861,Gesundheit & Körperpflege / Hautpflege / Gesichtsmasken
+862,Gesundheit & Körperpflege / Hautpflege / Gesichtscreme
+863,Gesundheit & Körperpflege / Hautpflege / Lippenpflege
+864,Gesundheit & Körperpflege / Hautpflege / Medizinische Hautpflege
+865,Gesundheit & Körperpflege / Nahrungsergänzung & Vitamine
+866,Gesundheit & Körperpflege / Nahrungsergänzung & Vitamine / Proteinpulver
+867,Gesundheit & Körperpflege / Taschentücher
+868,Gesundheit & Körperpflege / Augenpflege
+869,Gesundheit & Körperpflege / Feuchttücher
+870,Haus & Garten
+871,Haus & Garten / Haushaltsgeräte
+872,Haus & Garten / Haushaltsgeräte / Küchengeräte
+873,Haus & Garten / Haushaltsgeräte / Küchengeräte / Wasserkocher
+874,Haus & Garten / Badezimmerzubehör
+875,Haus & Garten / Reinigungsmittel
+876,Haus & Garten / Reinigungsmittel / Spülmittel
+877,Haus & Garten / Reinigungsmittel / Spülmaschinentabs
+878,Haus & Garten / Reinigungsmittel / Rohrreiniger
+879,Haus & Garten / Reinigungsmittel / Waschzusätze
+880,Haus & Garten / Reinigungsmittel / Waschmittel
+881,Haus & Garten / Reinigungsmittel / Schwämme & Scheuermittel
+882,Haus & Garten / Reinigungsmittel / WC-Reiniger
+883,Haus & Garten / Dekoration
+884,Haus & Garten / Dekoration / Bastelbedarf
+885,Haus & Garten / Dekoration / Saisonale Dekoration
+886,Haus & Garten / Dekoration / Saisonale Dekoration / Weihnachtsdekoration
+887,Haus & Garten / Möbel
+888,Haus & Garten / Möbel / Sitzmöbel
+889,Haus & Garten / Geschenkartikel
+890,Haus & Garten / Geschenkartikel / Geschenkverpackungen
+891,Haus & Garten / Raumdüfte
+892,Haus & Garten / Haushaltsbedarf
+893,Haus & Garten / Haushaltsbedarf / Backzubehör
+894,Haus & Garten / Haushaltsbedarf / Reinigungsmittel
+895,Haus & Garten / Haushaltsbedarf / Reinigungsmittel / Antibakterielles Spray
+896,Haus & Garten / Haushaltsbedarf / Reinigungsmittel / Badreiniger
+897,Haus & Garten / Haushaltsbedarf / Reinigungsmittel / Bodenreiniger
+898,Haus & Garten / Haushaltsbedarf / Reinigungsmittel / Waschmittel
+899,Haus & Garten / Haushaltsbedarf / Reinigungsmittel / Entkalker
+900,Haus & Garten / Haushaltsbedarf / Reinigungsmittel / Allzweckreiniger
+901,Haus & Garten / Haushaltswaren / Reinigungsmittel / Oberflächenreiniger
+902,Haus & Garten / Haushaltswaren / Reinigungsmittel / WC-Reiniger
+903,Haus & Garten / Haushaltswaren / Reinigungsmittel / Reinigungstücher
+904,Haus & Garten / Haushaltswaren / Reinigungsgeräte
+905,Haus & Garten / Haushaltswaren / Reinigungsgeräte / Wischmopps & Eimer
+906,Haus & Garten / Haushaltswaren / Einweggeschirr
+907,Haus & Garten / Haushaltswaren / Einweggeschirr / Einwegbecher
+908,Haus & Garten / Haushaltswaren / Einweggeschirr / Einwegteller
+909,Haus & Garten / Haushaltswaren / Lebensmittelverpackungen
+910,Haus & Garten / Haushaltswaren / Wäschezubehör
+911,Haus & Garten / Haushaltswaren / Papierwaren
+912,Haus & Garten / Haushaltswaren / Papierwaren / Kosmetiktücher
+913,Haus & Garten / Haushaltswaren / Papierwaren / Servietten
+914,Haus & Garten / Haushaltswaren / Papierwaren / Küchenrollen
+915,Haus & Garten / Haushaltswaren / Papierwaren / Toilettenpapier
+916,Haus & Garten / Haushaltswaren / Schädlingsbekämpfung
+917,Haus & Garten / Haushaltswaren / Schädlingsbekämpfung / Insektizide
+918,Haus & Garten / Haushaltswaren / Reparatur & Instandhaltung
+919,Haus & Garten / Haushaltswaren / Schuhpflege
+920,Haus & Garten / Haushaltswaren / Schuhpflege / Schuhcreme
+921,Haus & Garten / Haushaltswaren / Einkaufstaschen
+922,Haus & Garten / Haushaltswaren / Müllbeutel
+923,Haus & Garten / Haushaltswaren / Abfalleimer
+924,Haus & Garten / Küche & Esszimmer
+925,Haus & Garten / Küche & Esszimmer / Besteck
+926,Haus & Garten / Küche & Esszimmer / Geschirr
+927,Haus & Garten / Küche & Esszimmer / Einweggeschirr
+928,Haus & Garten / Küche & Esszimmer / Trinkgeschirr
+929,Haus & Garten / Küche & Esszimmer / Trinkgeschirr / Becher
+930,Haus & Garten / Küche & Esszimmer / Trinkgeschirr / Tassen
+931,Haus & Garten / Küche & Esszimmer / Trinkgeschirr / Trinkbecher mit Strohhalm
+932,Haus & Garten / Küche & Esszimmer / Trinkgeschirr / Thermobecher
+933,Haus & Garten / Küche & Esszimmer / Trinkgeschirr / Trinkgläser
+934,Haus & Garten / Küche & Esszimmer / Lebensmittelaufbewahrung
+935,Haus & Garten / Küche & Esszimmer / Glaswaren
+936,Haus & Garten / Küche & Esszimmer / Küchenzubehör
+937,Haus & Garten / Küche & Esszimmer / Küchenutensilien
+938,Haus & Garten / Küche & Esszimmer / Küchenutensilien / Vorratsbehälter
+939,Haus & Garten / Beleuchtung
+940,Haus & Garten / Heimtextilien
+941,Haus & Garten / Heimtextilien / Bettwäsche
+942,Haus & Garten / Heimtextilien / Decken
+943,Haus & Garten / Heimtextilien / Handtücher
+944,Haus & Garten / Schädlingsbekämpfung
+945,Haus & Garten / Schädlingsbekämpfung / Insektenschutzmittel
+946,Haus & Garten / Schädlingsbekämpfung / Insektizide
+947,Haus & Garten / Pflanzen & Blumen
+948,Haus & Garten / Pflanzen & Blumen / Blumen
+949,Haus & Garten / Aufbewahrung & Ordnung
+950,Haus & Garten / Werkzeuge
+951,Gepäck & Taschen
+952,Gepäck & Taschen / Einkaufstaschen
+953,Gepäck & Taschen / Koffer
+954,Gepäck & Taschen / Reisetaschen
+955,Medien
+956,Medien / Zeitungen & Zeitschriften
+957,Bürobedarf
+958,Bürobedarf / Terminkalender & Planer
+959,Bürobedarf / Notizbücher
+960,Bürobedarf / Papierwaren
+961,Bürobedarf / Aufbewahrungsboxen
+962,Bürobedarf / Schreibgeräte
+963,Bürobedarf / Schreibgeräte / Stifte
+964,Party & Anlässe
+965,Party & Anlässe / Partyzubehör
+966,Immobilien
+967,Immobilien / Wohnimmobilien
+968,Immobilien / Wohnimmobilien / Miete
+969,Dienstleistungen
+970,Dienstleistungen / Digitale Dienste
+971,Dienstleistungen / Gastronomie
+972,Dienstleistungen / Spenden
+973,Dienstleistungen / Bildung
+974,Dienstleistungen / Bildung / Spielkurs
+975,Dienstleistungen / Bildung / Sprachkurs
+976,Dienstleistungen / Bildung / Musikkurs
+977,Dienstleistungen / Finanzdienstleistungen
+978,Dienstleistungen / Finanzdienstleistungen / Guthabenaufladung
+979,Dienstleistungen / Glücksspiel
+980,Dienstleistungen / Glücksspiel / Lotterie & Gewinnspiele
+981,Dienstleistungen / Internet
+982,Dienstleistungen / Internet / Breitbandanschluss
+983,Dienstleistungen / Wäscherei
+984,Dienstleistungen / Rechts- & Notardienste
+985,Dienstleistungen / Freizeit
+986,Dienstleistungen / Freizeit / Kutschfahrten
+987,Dienstleistungen / Freizeit / Spa & Sauna
+988,Dienstleistungen / Treueprogramme
+989,Dienstleistungen / Körperpflege
+990,Dienstleistungen / Körperpflege / Spa & Bad
+991,Dienstleistungen / Aktionen & Gutscheine
+992,Dienstleistungen / Aktionen & Gutscheine / Coupons
+993,Dienstleistungen / Aktionen & Gutscheine / Rabatte
+994,Dienstleistungen / Aktionen & Gutscheine / Geschenkkarten
+995,Dienstleistungen / Aktionen & Gutscheine / Einlösungen
+996,Dienstleistungen / Aktionen & Gutscheine / Prämien
+997,Dienstleistungen / Umfragen
+998,Dienstleistungen / Telekommunikation
+999,Dienstleistungen / Telekommunikation / Gebühren
+1000,Dienstleistungen / Telekommunikation / Mobilfunktarife
+1001,Dienstleistungen / Telekommunikation / Netzwerkdienste
+1002,Dienstleistungen / Transport
+1003,Dienstleistungen / Transport / Flugtickets
+1004,Dienstleistungen / Transport / Bustickets
+1005,Dienstleistungen / Transport / Mietwagen
+1006,Dienstleistungen / Transport / Gebühren
+1007,Dienstleistungen / Transport / Fährtickets
+1008,Dienstleistungen / Transport / Parken
+1009,Dienstleistungen / Transport / Fahrdienste & Taxi
+1010,Dienstleistungen / Transport / Maut
+1011,Dienstleistungen / Transport / Bahntickets
+1012,Dienstleistungen / Reisen
+1013,Dienstleistungen / Reisen / Unterkunft
+1014,Dienstleistungen / Versorgungsunternehmen
+1015,Souvenirs & Geschenke
+1016,Souvenirs & Geschenke / Accessoires
+1017,Souvenirs & Geschenke / Magnete
+1018,Sport & Outdoor
+1019,Sport & Outdoor / Radsport
+1020,Sport & Outdoor / Radsport / Fahrradteile
+1021,Sport & Outdoor / Trainingsgeräte
+1022,Sport & Outdoor / Fitnessgeräte
+1023,Sport & Outdoor / Trinkflaschen
+1024,Spielzeug & Spiele
+1025,Spielzeug & Spiele / Babyspielzeug
+1026,Spielzeug & Spiele / Sammlerstücke
+1027,Spielzeug & Spiele / Sammlerstücke / Art Toys
+1028,Spielzeug & Spiele / Sammlerstücke / Plüschtiere
+1029,Spielzeug & Spiele / Sammlerstücke / Sammelkarten
+1030,Spielzeug & Spiele / Puppen & Actionfiguren
+1031,Spielzeug & Spiele / Puppen & Actionfiguren / Puppen
+1032,Spielzeug & Spiele / Modellbausätze
+1033,Spielzeug & Spiele / Plüschtiere
+1034,Spielzeug & Spiele / Puzzles
+1035,Transport
+1036,Transport / Tickets
+1037,Transport / Tickets / Bahntickets
+1038,Reisebedarf
+1039,Reisebedarf / Gepäck & Koffer
+1040,Versorgungsunternehmen
+1041,Versorgungsunternehmen / Strom
+1042,Versorgungsunternehmen / Wasser
