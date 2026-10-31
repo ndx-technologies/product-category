@@ -32,7 +32,14 @@ trap 'rm -rf "$tmp"' EXIT INT TERM
 
 if [ -z "$tag" ]; then
   echo "downloading live files from $url"
-  gcloud storage cp "$url/categories.txt" "$url/categories_*.txt" "$tmp/"
+  # a wildcard matches the dots in a version, so 'categories_*.txt' would also
+  # pull every snapshot: list, then keep only the names without '.v<version>'
+  objects=$(gcloud storage ls "$url/categories*.txt" | grep -v '\.v[0-9.]*\.txt$')
+  if [ -z "$objects" ]; then
+    echo "$url holds no live taxonomy; repo left untouched" >&2
+    exit 1
+  fi
+  gcloud storage cp $objects "$tmp/"
 else
   echo "downloading $tag from $url"
   gcloud storage cp "$url/categories*.${tag}.txt" "$tmp/"
