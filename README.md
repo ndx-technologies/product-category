@@ -1,7 +1,7 @@
-# Product Category
+# NDX Product Category
 
-This repositroy contains Product Category taxonomy.
+This repository contains NDX Product Category taxonomy.
 
 ## ADR
 
-- 2026-10-31 only data, no sdk. so that tags are releases of taxonomy data and not clients to use it.
+- 2026-10-31 this repository contains only data, no clients. tags are releases of taxonomy and not rleases clients. client releases are moving independently from taxonomy releases.
