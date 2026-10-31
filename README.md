@@ -1,7 +1,5 @@
-# NDX Product Category
+# Product Category
 
-This repository contains NDX Product Category taxonomy.
+Product Category is a taxonomy tree of retail products and services.
 
-## ADR
-
-- 2026-10-31 this repository contains only data, no clients. tags are releases of taxonomy and not clients. client releases are moving independently from taxonomy releases.
+Versions may not be compatible.
