@@ -1826,12 +1826,12 @@
 1824,Alimentos / Mariscos / Pescado Ahumado
 1825,Alimentos / Mariscos / Pescado Ahumado / Salmón Ahumado
 1826,Alimentos / Sazonadores
-1827,Alimentos / Condimentos / Canela
-1828,Alimentos / Condimentos / Hierbas
-1829,Alimentos / Condimentos / Pimienta
-1830,Alimentos / Condimentos / Sal
-1831,Alimentos / Condimentos / Mezclas de Especias
-1832,Alimentos / Condimentos / Especias
+1827,Alimentos / Sazonadores / Canela
+1828,Alimentos / Sazonadores / Hierbas
+1829,Alimentos / Sazonadores / Pimienta
+1830,Alimentos / Sazonadores / Sal
+1831,Alimentos / Sazonadores / Mezclas de Especias
+1832,Alimentos / Sazonadores / Especias
 1833,Alimentos / Semillas
 1834,Alimentos / Semillas / Semillas de chía
 1835,Alimentos / Semillas / Semillas de lino

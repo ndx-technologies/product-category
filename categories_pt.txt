@@ -1141,10 +1141,10 @@
 1139,Alimentos & Bebidas / Mistura para Chocolate Quente
 1140,Alimentos & Bebidas / Frutos do Mar
 1141,Alimentos / Aperitivos
-1142,Alimentos / Comida Asiática
-1143,Alimentos / Comida Asiática / Comida Chinesa
-1144,Alimentos / Comida Asiática / Comida Japonesa
-1145,Alimentos / Comida Asiática / Comida Coreana
+1142,Alimentos / Culinária Asiática
+1143,Alimentos / Culinária Asiática / Comida Chinesa
+1144,Alimentos / Culinária Asiática / Comida Japonesa
+1145,Alimentos / Culinária Asiática / Culinária Coreana
 1146,Alimentos / Culinária Asiática / Culinária Coreana / Bibimbap
 1147,Alimentos / Culinária Asiática / Culinária Coreana / Bokkeumbap (Arroz Frito)
 1148,Alimentos / Culinária Asiática / Culinária Coreana / Pratos de Frango
@@ -1160,13 +1160,13 @@
 1158,Alimentos / Culinária Asiática / Culinária Coreana / Kalguksu (Macarrão Cortado à Faca)
 1159,Alimentos / Culinária Asiática / Culinária Coreana / Naengmyeon (Macarrão Frio)
 1160,Alimentos / Culinária Asiática / Culinária Coreana / Macarrão
-1161,Alimentos / Comida Asiática / Comida Coreana / Bolinhos de Arroz
+1161,Alimentos / Culinária Asiática / Culinária Coreana / Bolinhos de Arroz
 1162,Alimentos / Culinária Asiática / Culinária Coreana / Pratos de Arroz
 1163,Alimentos / Culinária Asiática / Culinária Coreana / Sopas e Ensopados
 1164,Alimentos / Culinária Asiática / Culinária Coreana / Comida de Rua
 1165,Alimentos / Culinária Asiática / Culinária Coreana / Tang (Sopa)
 1166,Alimentos / Culinária Asiática / Culinária Coreana / Tteokbokki
-1167,Alimentos / Comida Asiática / Comida Tailandesa
+1167,Alimentos / Culinária Asiática / Comida Tailandesa
 1168,Alimentos / Produtos de Padaria
 1169,Alimentos / Produtos de Padaria / Bagels
 1170,Alimentos / Produtos de Padaria / Biscoitos
@@ -1418,15 +1418,15 @@
 1416,Alimentos / Laticínios & Ovos / Ovos
 1417,Alimentos / Laticínios & Ovos / Ovos / Ovos Orgânicos
 1418,Alimentos / Laticínios / Manteiga
-1419,Alimentos / Laticínios / Queijo
-1420,Alimentos / Laticínios / Queijo / Queijo Azul
-1421,Alimentos / Laticínios / Queijo / Queijo Brie
-1422,Alimentos / Laticínios / Queijo / Queijo Cheddar
-1423,Alimentos / Laticínios / Queijo / Queijo para Passar
-1424,Alimentos / Laticínios / Queijo / Queijo Cottage
-1425,Alimentos / Laticínios / Queijo / Cream Cheese
-1426,Alimentos / Laticínios / Queijo / Queijo de Sobremesa
-1427,Alimentos / Laticínios / Queijo / Queijo Edam
+1419,Alimentos / Laticínios / Queijos
+1420,Alimentos / Laticínios / Queijos / Queijo Azul
+1421,Alimentos / Laticínios / Queijos / Queijo Brie
+1422,Alimentos / Laticínios / Queijos / Queijo Cheddar
+1423,Alimentos / Laticínios / Queijos / Queijo para Passar
+1424,Alimentos / Laticínios / Queijos / Queijo Cottage
+1425,Alimentos / Laticínios / Queijos / Cream Cheese
+1426,Alimentos / Laticínios / Queijos / Queijo de Sobremesa
+1427,Alimentos / Laticínios / Queijos / Queijo Edam
 1428,Alimentos / Laticínios / Queijos / Feta
 1429,Alimentos / Laticínios / Queijos / Queijo de Cabra
 1430,Alimentos / Laticínios / Queijos / Queijo Curado
@@ -1644,38 +1644,38 @@
 1642,Alimentos / Carnes / Carne Bovina / Miúdos
 1643,Alimentos / Carnes / Carne Bovina / Bifes
 1644,Alimentos / Carnes / Carne Bovina / Contrafilé
-1645,Alimentos / Carne / Frios e Embutidos
-1646,Alimentos / Carne / Frios e Embutidos / Carne em Conserva
-1647,Alimentos / Carne / Frios e Embutidos / Chouriço
-1648,Alimentos / Carne / Frios e Embutidos / Presunto
-1649,Alimentos / Carne / Frios e Embutidos / Almôndegas
-1650,Alimentos / Carne / Frios e Embutidos / Pancetta
-1651,Alimentos / Carne / Frios e Embutidos / Patê
-1652,Alimentos / Carne / Frios e Embutidos / Salame
-1653,Alimentos / Carne / Frios e Embutidos / Linguiças
-1654,Alimentos / Carne / Caça
-1655,Alimentos / Carne / Cordeiro
-1656,Alimentos / Carne / Carne Suína
-1657,Alimentos / Carne / Carne Suína / Bacon
-1658,Alimentos / Carne / Carne Suína / Barriga Suína
-1659,Alimentos / Carne / Carne Suína / Copa Lombo
-1660,Alimentos / Carne / Carne Suína / Lombo Suíno
-1661,Alimentos / Carne / Carne Suína / Miúdos Suínos
-1662,Alimentos / Carne / Carne Suína / Costela Suína
-1663,Alimentos / Carne / Carne Suína / Pernil Suíno
-1664,Alimentos / Carne / Carne Suína / Rabo Suíno
-1665,Alimentos / Carne / Carne Suína / Linguiças
-1666,Alimentos / Carne / Carne Suína / Ossos para Sopa
-1667,Alimentos / Carne / Aves
-1668,Alimentos / Carne / Aves / Frango
-1669,Alimentos / Carne / Aves / Peito de Frango
-1670,Alimentos / Carne / Aves / Coxa de Frango
-1671,Alimentos / Carne / Aves / Sobrecoxa de Frango
-1672,Alimentos / Carne / Aves / Asa de Frango
-1673,Alimentos / Carne / Aves / Pato
-1674,Alimentos / Carne / Aves / Frango Preparado
-1675,Alimentos / Carne / Aves / Peru
-1676,Alimentos / Carne / Aves / Frango Inteiro
+1645,Alimentos / Carnes / Frios e Embutidos
+1646,Alimentos / Carnes / Frios e Embutidos / Carne em Conserva
+1647,Alimentos / Carnes / Frios e Embutidos / Chouriço
+1648,Alimentos / Carnes / Frios e Embutidos / Presunto
+1649,Alimentos / Carnes / Frios e Embutidos / Almôndegas
+1650,Alimentos / Carnes / Frios e Embutidos / Pancetta
+1651,Alimentos / Carnes / Frios e Embutidos / Patê
+1652,Alimentos / Carnes / Frios e Embutidos / Salame
+1653,Alimentos / Carnes / Frios e Embutidos / Linguiças
+1654,Alimentos / Carnes / Caça
+1655,Alimentos / Carnes / Cordeiro
+1656,Alimentos / Carnes / Carne Suína
+1657,Alimentos / Carnes / Carne Suína / Bacon
+1658,Alimentos / Carnes / Carne Suína / Barriga Suína
+1659,Alimentos / Carnes / Carne Suína / Copa Lombo
+1660,Alimentos / Carnes / Carne Suína / Lombo Suíno
+1661,Alimentos / Carnes / Carne Suína / Miúdos Suínos
+1662,Alimentos / Carnes / Carne Suína / Costela Suína
+1663,Alimentos / Carnes / Carne Suína / Pernil Suíno
+1664,Alimentos / Carnes / Carne Suína / Rabo Suíno
+1665,Alimentos / Carnes / Carne Suína / Linguiças
+1666,Alimentos / Carnes / Carne Suína / Ossos para Sopa
+1667,Alimentos / Carnes / Aves
+1668,Alimentos / Carnes / Aves / Frango
+1669,Alimentos / Carnes / Aves / Peito de Frango
+1670,Alimentos / Carnes / Aves / Coxa de Frango
+1671,Alimentos / Carnes / Aves / Sobrecoxa de Frango
+1672,Alimentos / Carnes / Aves / Asa de Frango
+1673,Alimentos / Carnes / Aves / Pato
+1674,Alimentos / Carnes / Aves / Frango Preparado
+1675,Alimentos / Carnes / Aves / Peru
+1676,Alimentos / Carnes / Aves / Frango Inteiro
 1677,Alimentos / Alternativas à Carne
 1678,Alimentos / Cogumelos
 1679,Alimentos / Massas
@@ -1744,43 +1744,43 @@
 1742,Alimentos / Refeições Prontas / Pratos com Ovos
 1743,Alimentos / Refeições Prontas / Pães Planos
 1744,Alimentos / Refeições Prontas / Batatas Fritas
-1745,Alimentos / Refeições Preparadas / Saladas de Frutas
-1746,Alimentos / Refeições Preparadas / Cachorros-Quentes
-1747,Alimentos / Refeições Preparadas / Pratos de Carne
-1748,Alimentos / Refeições Preparadas / Culinária Mexicana
-1749,Alimentos / Refeições Preparadas / Culinária Mexicana / Burrito
-1750,Alimentos / Refeições Preparadas / Culinária Mexicana / Tacos
-1751,Alimentos / Refeições Preparadas / Massas & Macarrão
-1752,Alimentos / Refeições Preparadas / Massas & Macarrão / Massa
-1753,Alimentos / Refeições Preparadas / Tortas
-1754,Alimentos / Refeições Preparadas / Pizza
-1755,Alimentos / Refeições Preparadas / Mingau
-1756,Alimentos / Refeições Preparadas / Quiche
-1757,Alimentos / Refeições Preparadas / Pratos de Arroz
-1758,Alimentos / Refeições Preparadas / Pratos de Arroz / Arroz com Frango
-1759,Alimentos / Refeições Preparadas / Saladas
-1760,Alimentos / Refeições Preparadas / Sanduíches
-1761,Alimentos / Refeições Preparadas / Sanduíches / Sanduíche de Croissant
-1762,Alimentos / Refeições Preparadas / Assados Salgados
-1763,Alimentos / Refeições Preparadas / Frutos do Mar
-1764,Alimentos / Refeições Preparadas / Pratos de Frutos do Mar
-1765,Alimentos / Refeições Preparadas / Acompanhamentos
-1766,Alimentos / Refeições Preparadas / Acompanhamentos / Purê de Batata
-1767,Alimentos / Refeições Preparadas / Sopas
-1768,Alimentos / Refeições Preparadas / Sopas / Sopa de Carne Bovina
-1769,Alimentos / Refeições Preparadas / Sopas / Dobradinha
-1770,Alimentos / Refeições Preparadas / Sopas / Sopa de Frango
-1771,Alimentos / Refeições Preparadas / Sopas / Sopa de Carne
-1772,Alimentos / Refeições Preparadas / Sopas / Sopa de Cogumelos
-1773,Alimentos / Refeições Preparadas / Sopas / Sopa de Porco
-1774,Alimentos / Refeições Preparadas / Sopas / Sopa de Frutos do Mar
-1775,Alimentos / Refeições Preparadas / Sopas / Sopa de Algas
-1776,Alimentos / Refeições Preparadas / Sushi
-1777,Alimentos / Refeições Preparadas / Sushi / Sortidos
-1778,Alimentos / Refeições Preparadas / Sushi / Gunkan
-1779,Alimentos / Refeições Preparadas / Sushi / Nigiri
-1780,Alimentos / Refeições Preparadas / Sushi / Rolos
-1781,Alimentos / Refeições Preparadas / Pratos de Vegetais
+1745,Alimentos / Refeições Prontas / Saladas de Frutas
+1746,Alimentos / Refeições Prontas / Cachorros-Quentes
+1747,Alimentos / Refeições Prontas / Pratos de Carne
+1748,Alimentos / Refeições Prontas / Culinária Mexicana
+1749,Alimentos / Refeições Prontas / Culinária Mexicana / Burrito
+1750,Alimentos / Refeições Prontas / Culinária Mexicana / Tacos
+1751,Alimentos / Refeições Prontas / Massas & Macarrão
+1752,Alimentos / Refeições Prontas / Massas & Macarrão / Massa
+1753,Alimentos / Refeições Prontas / Tortas
+1754,Alimentos / Refeições Prontas / Pizza
+1755,Alimentos / Refeições Prontas / Mingau
+1756,Alimentos / Refeições Prontas / Quiche
+1757,Alimentos / Refeições Prontas / Pratos de Arroz
+1758,Alimentos / Refeições Prontas / Pratos de Arroz / Arroz com Frango
+1759,Alimentos / Refeições Prontas / Saladas
+1760,Alimentos / Refeições Prontas / Sanduíches
+1761,Alimentos / Refeições Prontas / Sanduíches / Sanduíche de Croissant
+1762,Alimentos / Refeições Prontas / Assados Salgados
+1763,Alimentos / Refeições Prontas / Frutos do Mar
+1764,Alimentos / Refeições Prontas / Pratos de Frutos do Mar
+1765,Alimentos / Refeições Prontas / Acompanhamentos
+1766,Alimentos / Refeições Prontas / Acompanhamentos / Purê de Batata
+1767,Alimentos / Refeições Prontas / Sopas
+1768,Alimentos / Refeições Prontas / Sopas / Sopa de Carne Bovina
+1769,Alimentos / Refeições Prontas / Sopas / Dobradinha
+1770,Alimentos / Refeições Prontas / Sopas / Sopa de Frango
+1771,Alimentos / Refeições Prontas / Sopas / Sopa de Carne
+1772,Alimentos / Refeições Prontas / Sopas / Sopa de Cogumelos
+1773,Alimentos / Refeições Prontas / Sopas / Sopa de Porco
+1774,Alimentos / Refeições Prontas / Sopas / Sopa de Frutos do Mar
+1775,Alimentos / Refeições Prontas / Sopas / Sopa de Algas
+1776,Alimentos / Refeições Prontas / Sushi
+1777,Alimentos / Refeições Prontas / Sushi / Sortidos
+1778,Alimentos / Refeições Prontas / Sushi / Gunkan
+1779,Alimentos / Refeições Prontas / Sushi / Nigiri
+1780,Alimentos / Refeições Prontas / Sushi / Rolos
+1781,Alimentos / Refeições Prontas / Pratos de Vegetais
 1782,Alimentos / Alimentos em Conserva
 1783,Alimentos / Alimentos em Conserva / Enlatados
 1784,Alimentos / Alimentos em Conserva / Azeitonas
@@ -3590,7 +3590,7 @@
 3588,Serviços / Bem-Estar / Beleza / Cuidados com as Unhas
 3589,Serviços / Bem-Estar / Massagem
 3590,Serviços / Bem-Estar / Sauna
-3591,Serviços / Bem-estar / Spa
+3591,Serviços / Bem-Estar / Spa
 3592,Software
 3593,Software / Bens Digitais
 3594,Software / Assinaturas

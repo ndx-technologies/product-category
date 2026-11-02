@@ -1387,11 +1387,11 @@
 1385,Lebensmittel / Würzmittel / Wasabi
 1386,Lebensmittel / Konfekt
 1387,Lebensmittel / Konfekt / Schokolade
-1388,Lebensmittel / Süßwaren / Schokolade / Pralinen
-1389,Lebensmittel / Süßwaren / Schokolade / Schokoladengeschenkboxen
-1390,Lebensmittel / Süßwaren / Schokolade / Zartbitterschokolade
-1391,Lebensmittel / Süßwaren / Schokolade / Milchschokolade
-1392,Lebensmittel / Süßwaren / Fudge
+1388,Lebensmittel / Konfekt / Schokolade / Pralinen
+1389,Lebensmittel / Konfekt / Schokolade / Schokoladengeschenkboxen
+1390,Lebensmittel / Konfekt / Schokolade / Zartbitterschokolade
+1391,Lebensmittel / Konfekt / Schokolade / Milchschokolade
+1392,Lebensmittel / Konfekt / Fudge
 1393,Lebensmittel / Kochzutaten
 1394,Lebensmittel / Kochzutaten / Brühe
 1395,Lebensmittel / Kochzutaten / Bratfette

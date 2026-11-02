@@ -1387,11 +1387,11 @@
 1385,Alimentation / Condiments / Wasabi
 1386,Alimentation / Produits de confiserie
 1387,Alimentation / Produits de confiserie / Chocolat
-1388,Alimentation / Confiserie / Chocolat / Bonbons
-1389,Alimentation / Confiserie / Chocolat / Coffrets de chocolats
-1390,Alimentation / Confiserie / Chocolat / Chocolat noir
-1391,Alimentation / Confiserie / Chocolat / Chocolat au lait
-1392,Alimentation / Confiserie / Fudge
+1388,Alimentation / Produits de confiserie / Chocolat / Bonbons
+1389,Alimentation / Produits de confiserie / Chocolat / Coffrets de chocolats
+1390,Alimentation / Produits de confiserie / Chocolat / Chocolat noir
+1391,Alimentation / Produits de confiserie / Chocolat / Chocolat au lait
+1392,Alimentation / Produits de confiserie / Fudge
 1393,Alimentation / Ingrédients de cuisine
 1394,Alimentation / Ingrédients de cuisine / Bouillon
 1395,Alimentation / Ingrédients de cuisine / Matières grasses

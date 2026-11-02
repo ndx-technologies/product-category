@@ -1387,11 +1387,11 @@
 1385,Alimentari / Condimenti / Wasabi
 1386,Alimentari / Prodotti dolciari
 1387,Alimentari / Prodotti dolciari / Cioccolato
-1388,Alimentari / Dolciumi / Cioccolato / Bonbon
-1389,Alimentari / Dolciumi / Cioccolato / Confezioni regalo di cioccolato
-1390,Alimentari / Dolciumi / Cioccolato / Cioccolato fondente
-1391,Alimentari / Dolciumi / Cioccolato / Cioccolato al latte
-1392,Alimentari / Dolciumi / Fudge
+1388,Alimentari / Prodotti dolciari / Cioccolato / Bonbon
+1389,Alimentari / Prodotti dolciari / Cioccolato / Confezioni regalo di cioccolato
+1390,Alimentari / Prodotti dolciari / Cioccolato / Cioccolato fondente
+1391,Alimentari / Prodotti dolciari / Cioccolato / Cioccolato al latte
+1392,Alimentari / Prodotti dolciari / Fudge
 1393,Alimentari / Ingredienti per cucinare
 1394,Alimentari / Ingredienti per cucinare / Brodo
 1395,Alimentari / Ingredienti per cucinare / Grassi da cucina
@@ -1826,12 +1826,12 @@
 1824,Alimentari / Pesce e frutti di mare / Pesce affumicato
 1825,Alimentari / Pesce e frutti di mare / Pesce affumicato / Salmone affumicato
 1826,Alimentari / Spezie
-1827,Alimentari / Condimenti / Cannella
-1828,Alimentari / Condimenti / Erbe aromatiche
-1829,Alimentari / Condimenti / Pepe
-1830,Alimentari / Condimenti / Sale
-1831,Alimentari / Condimenti / Mix di spezie
-1832,Alimentari / Condimenti / Spezie
+1827,Alimentari / Spezie / Cannella
+1828,Alimentari / Spezie / Erbe aromatiche
+1829,Alimentari / Spezie / Pepe
+1830,Alimentari / Spezie / Sale
+1831,Alimentari / Spezie / Mix di spezie
+1832,Alimentari / Spezie / Spezie
 1833,Alimentari / Semi
 1834,Alimentari / Semi / Semi di chia
 1835,Alimentari / Semi / Semi di lino
