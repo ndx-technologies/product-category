@@ -3426,48 +3426,48 @@
 3424,Bürobedarf / Schreibgeräte / Stifte
 3425,Bürobedarf / Schreibgeräte / Whiteboard-Marker
 3426,Bürobedarf / Schreibbedarf
-3427,Immobilien
-3428,Immobilien / Wohnimmobilien
-3429,Immobilien / Wohnimmobilien / Miete
-3430,Dienstleistungen
-3431,Dienstleistungen / Reinigung
-3432,Dienstleistungen / Digitale Dienste
-3433,Dienstleistungen / Gastronomie
-3434,Dienstleistungen / Spenden
-3435,Dienstleistungen / Bildung
-3436,Dienstleistungen / Bildung / Spielkurs
-3437,Dienstleistungen / Bildung / Sprachkurs
-3438,Dienstleistungen / Bildung / Musikkurs
-3439,Dienstleistungen / Finanzen
-3440,Dienstleistungen / Finanzen / Gebühren
-3441,Dienstleistungen / Finanzen / Guthabenaufladung
-3442,Dienstleistungen / Glücksspiel
-3443,Dienstleistungen / Glücksspiel / Lotterie & Gewinnspiele
-3444,Dienstleistungen / Friseur & Salon
-3445,Dienstleistungen / Reparaturdienste
-3446,Dienstleistungen / Internet
-3447,Dienstleistungen / Internet / Breitbandanschluss
-3448,Dienstleistungen / Wäscherei
-3449,Dienstleistungen / Recht & Notariat
-3450,Dienstleistungen / Freizeit
-3451,Dienstleistungen / Freizeit / Kutschenfahrten
-3452,Dienstleistungen / Treueprogramme
-3453,Dienstleistungen / Körperpflege
-3454,Dienstleistungen / Körperpflege / Spa & Bad
-3455,Dienstleistungen / Vermietung
-3456,Dienstleistungen / Umfragen
-3457,Dienstleistungen / Telekommunikation
-3458,Dienstleistungen / Telekommunikation / Gebühren
-3459,Dienstleistungen / Telekommunikation / Mobilfunktarife
-3460,Dienstleistungen / Telekommunikation / Netzwerkdienste
-3461,Dienstleistungen / Transport
-3462,Dienstleistungen / Transport / Flugtickets
-3463,Dienstleistungen / Transport / Bustickets
-3464,Dienstleistungen / Transport / Mietwagen
-3465,Dienstleistungen / Transport / Gebühren
-3466,Dienstleistungen / Transport / Fährtickets
-3467,Dienstleistungen / Transport / Parken
-3468,Dienstleistungen / Transport / Fahrdienste & Taxi
+3427,Dienstleistungen
+3428,Dienstleistungen / Reinigung
+3429,Dienstleistungen / Digitale Dienste
+3430,Dienstleistungen / Gastronomie
+3431,Dienstleistungen / Spenden
+3432,Dienstleistungen / Bildung
+3433,Dienstleistungen / Bildung / Spielkurs
+3434,Dienstleistungen / Bildung / Sprachkurs
+3435,Dienstleistungen / Bildung / Musikkurs
+3436,Dienstleistungen / Finanzen
+3437,Dienstleistungen / Finanzen / Gebühren
+3438,Dienstleistungen / Finanzen / Guthabenaufladung
+3439,Dienstleistungen / Glücksspiel
+3440,Dienstleistungen / Glücksspiel / Lotterie & Gewinnspiele
+3441,Dienstleistungen / Friseur & Salon
+3442,Dienstleistungen / Reparaturdienste
+3443,Dienstleistungen / Wohnungsmiete
+3444,Dienstleistungen / Internet
+3445,Dienstleistungen / Internet / Breitbandanschluss
+3446,Dienstleistungen / Wäscherei
+3447,Dienstleistungen / Recht & Notariat
+3448,Dienstleistungen / Freizeit
+3449,Dienstleistungen / Freizeit / Kutschenfahrten
+3450,Dienstleistungen / Treueprogramme
+3451,Dienstleistungen / Körperpflege
+3452,Dienstleistungen / Körperpflege / Spa & Bad
+3453,Dienstleistungen / Umfragen
+3454,Dienstleistungen / Telekommunikation
+3455,Dienstleistungen / Telekommunikation / Gebühren
+3456,Dienstleistungen / Telekommunikation / Mobilfunktarife
+3457,Dienstleistungen / Telekommunikation / Netzwerkdienste
+3458,Dienstleistungen / Transport
+3459,Dienstleistungen / Transport / Flugtickets
+3460,Dienstleistungen / Transport / Fahrradverleih
+3461,Dienstleistungen / Transport / Bootsverleih
+3462,Dienstleistungen / Transport / Bustickets
+3463,Dienstleistungen / Transport / Mietwagen
+3464,Dienstleistungen / Transport / Gebühren
+3465,Dienstleistungen / Transport / Fährtickets
+3466,Dienstleistungen / Transport / Parken
+3467,Dienstleistungen / Transport / Fahrdienste & Taxi
+3468,Dienstleistungen / Transport / Rollerverleih
 3469,Dienstleistungen / Transport / Maut
 3470,Dienstleistungen / Transport / Bahntickets
 3471,Dienstleistungen / Reisen

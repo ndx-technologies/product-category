@@ -3426,48 +3426,48 @@
 3424,Office Supplies / Writing Instruments / Pens
 3425,Office Supplies / Writing Instruments / Whiteboard Markers
 3426,Office Supplies / Writing Supplies
-3427,Real Estate
-3428,Real Estate / Residential
-3429,Real Estate / Residential / Rent
-3430,Services
-3431,Services / Cleaning
-3432,Services / Digital Services
-3433,Services / Dining
-3434,Services / Donations
-3435,Services / Education
-3436,Services / Education / Game Class
-3437,Services / Education / Language Course
-3438,Services / Education / Music Class
-3439,Services / Finance
-3440,Services / Finance / Fees
-3441,Services / Finance / Stored Value Top-Up
-3442,Services / Gambling
-3443,Services / Gambling / Lottery & Sweepstakes
-3444,Services / Hair & Salon
-3445,Services / Home Repair
-3446,Services / Internet
-3447,Services / Internet / Home Broadband
-3448,Services / Laundry
-3449,Services / Legal & Notarial
-3450,Services / Leisure
-3451,Services / Leisure / Horse Carriage Rides
-3452,Services / Loyalty Programs
-3453,Services / Personal Care
-3454,Services / Personal Care / Spa & Bath
-3455,Services / Rent
-3456,Services / Survey
-3457,Services / Telecommunications
-3458,Services / Telecommunications / Fees
-3459,Services / Telecommunications / Mobile Plans
-3460,Services / Telecommunications / Network Services
-3461,Services / Transportation
-3462,Services / Transportation / Air Tickets
-3463,Services / Transportation / Bus Tickets
-3464,Services / Transportation / Car Rental
-3465,Services / Transportation / Fees
-3466,Services / Transportation / Ferry Tickets
-3467,Services / Transportation / Parking
-3468,Services / Transportation / Ride Hailing & Taxi
+3427,Services
+3428,Services / Cleaning
+3429,Services / Digital Services
+3430,Services / Dining
+3431,Services / Donations
+3432,Services / Education
+3433,Services / Education / Game Class
+3434,Services / Education / Language Course
+3435,Services / Education / Music Class
+3436,Services / Finance
+3437,Services / Finance / Fees
+3438,Services / Finance / Stored Value Top-Up
+3439,Services / Gambling
+3440,Services / Gambling / Lottery & Sweepstakes
+3441,Services / Hair & Salon
+3442,Services / Home Repair
+3443,Services / Housing Rent
+3444,Services / Internet
+3445,Services / Internet / Home Broadband
+3446,Services / Laundry
+3447,Services / Legal & Notarial
+3448,Services / Leisure
+3449,Services / Leisure / Horse Carriage Rides
+3450,Services / Loyalty Programs
+3451,Services / Personal Care
+3452,Services / Personal Care / Spa & Bath
+3453,Services / Survey
+3454,Services / Telecommunications
+3455,Services / Telecommunications / Fees
+3456,Services / Telecommunications / Mobile Plans
+3457,Services / Telecommunications / Network Services
+3458,Services / Transportation
+3459,Services / Transportation / Air Tickets
+3460,Services / Transportation / Bike Rent
+3461,Services / Transportation / Boat Rent
+3462,Services / Transportation / Bus Tickets
+3463,Services / Transportation / Car Rental
+3464,Services / Transportation / Fees
+3465,Services / Transportation / Ferry Tickets
+3466,Services / Transportation / Parking
+3467,Services / Transportation / Ride Hailing & Taxi
+3468,Services / Transportation / Scooter Rent
 3469,Services / Transportation / Tolls
 3470,Services / Transportation / Train Tickets
 3471,Services / Travel

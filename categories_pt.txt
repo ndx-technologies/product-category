@@ -3426,48 +3426,48 @@
 3424,Material de Escritório / Instrumentos de Escrita / Canetas
 3425,Material de Escritório / Instrumentos de Escrita / Marcador de quadro
 3426,Material de Escritório / Materiais de Escrita
-3427,Imóveis
-3428,Imóveis / Residencial
-3429,Imóveis / Residencial / Aluguel
-3430,Serviços
-3431,Serviços / Limpeza
-3432,Serviços / Serviços Digitais
-3433,Serviços / Alimentação
-3434,Serviços / Doações
-3435,Serviços / Educação
-3436,Serviços / Educação / Aulas de Jogos
-3437,Serviços / Educação / Curso de Idiomas
-3438,Serviços / Educação / Aulas de Música
-3439,Serviços / Finanças
-3440,Serviços / Finanças / Taxas
-3441,Serviços / Finanças / Recarga de Saldo
-3442,Serviços / Jogos de Azar
-3443,Serviços / Jogos de Azar / Loterias & Sorteios
-3444,Serviços / Cabelo & Salão
-3445,Serviços / Reparos Domésticos
-3446,Serviços / Internet
-3447,Serviços / Internet / Banda Larga Residencial
-3448,Serviços / Lavanderia
-3449,Serviços / Jurídico & Notarial
-3450,Serviços / Lazer
-3451,Serviços / Lazer / Passeios de Charrete
-3452,Serviços / Programas de Fidelidade
-3453,Serviços / Cuidados Pessoais
-3454,Serviços / Cuidados Pessoais / Spa & Banho
-3455,Serviços / Aluguel
-3456,Serviços / Pesquisas
-3457,Serviços / Telecomunicações
-3458,Serviços / Telecomunicações / Taxas
-3459,Serviços / Telecomunicações / Planos Móveis
-3460,Serviços / Telecomunicações / Serviços de Rede
-3461,Serviços / Transporte
-3462,Serviços / Transporte / Passagens Aéreas
-3463,Serviços / Transporte / Passagens de Ônibus
-3464,Serviços / Transporte / Aluguel de Carros
-3465,Serviços / Transporte / Taxas
-3466,Serviços / Transporte / Passagens de Balsa
-3467,Serviços / Transporte / Estacionamento
-3468,Serviços / Transporte / Aplicativos de Transporte & Táxi
+3427,Serviços
+3428,Serviços / Limpeza
+3429,Serviços / Serviços Digitais
+3430,Serviços / Alimentação
+3431,Serviços / Doações
+3432,Serviços / Educação
+3433,Serviços / Educação / Aulas de Jogos
+3434,Serviços / Educação / Curso de Idiomas
+3435,Serviços / Educação / Aulas de Música
+3436,Serviços / Finanças
+3437,Serviços / Finanças / Taxas
+3438,Serviços / Finanças / Recarga de Saldo
+3439,Serviços / Jogos de Azar
+3440,Serviços / Jogos de Azar / Loterias & Sorteios
+3441,Serviços / Cabelo & Salão
+3442,Serviços / Reparos Domésticos
+3443,Serviços / Aluguel de Moradia
+3444,Serviços / Internet
+3445,Serviços / Internet / Banda Larga Residencial
+3446,Serviços / Lavanderia
+3447,Serviços / Jurídico & Notarial
+3448,Serviços / Lazer
+3449,Serviços / Lazer / Passeios de Charrete
+3450,Serviços / Programas de Fidelidade
+3451,Serviços / Cuidados Pessoais
+3452,Serviços / Cuidados Pessoais / Spa & Banho
+3453,Serviços / Pesquisas
+3454,Serviços / Telecomunicações
+3455,Serviços / Telecomunicações / Taxas
+3456,Serviços / Telecomunicações / Planos Móveis
+3457,Serviços / Telecomunicações / Serviços de Rede
+3458,Serviços / Transporte
+3459,Serviços / Transporte / Passagens Aéreas
+3460,Serviços / Transporte / Aluguel de Bicicletas
+3461,Serviços / Transporte / Aluguel de Barcos
+3462,Serviços / Transporte / Passagens de Ônibus
+3463,Serviços / Transporte / Aluguel de Carros
+3464,Serviços / Transporte / Taxas
+3465,Serviços / Transporte / Passagens de Balsa
+3466,Serviços / Transporte / Estacionamento
+3467,Serviços / Transporte / Aplicativos de Transporte & Táxi
+3468,Serviços / Transporte / Aluguel de Patinetes
 3469,Serviços / Transporte / Pedágios
 3470,Serviços / Transporte / Passagens de Trem
 3471,Serviços / Viagens
