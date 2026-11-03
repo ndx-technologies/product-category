@@ -2379,135 +2379,135 @@
 2377,Lebensmittel / Vorratsschrank / Konserven / Eingelegte & fermentierte Lebensmittel
 2378,Lebensmittel / Vorratsschrank / Konserven / Eingelegtes Gemüse
 2379,Lebensmittel / Vorratsschrank / Getrocknete Pilze
-2380,Lebensmittel / Vorratsschrank / Kräuter und Gewürze
-2381,Lebensmittel / Vorratsschrank / Kräuter und Gewürze / Getrocknete Kräuter
-2382,Lebensmittel / Vorratsschrank / Konfitüren und Marmeladen
-2383,Lebensmittel / Vorratsschrank / Öle & Essige
-2384,Lebensmittel / Vorratsschrank / Öle & Essige / Olivenöl
-2385,Lebensmittel / Vorratsschrank / Öle & Essige / Erdnussöl
-2386,Lebensmittel / Vorratsschrank / Öle & Essige / Essig
-2387,Lebensmittel / Vorratsschrank / Pasta & Nudeln
-2388,Lebensmittel / Vorratsschrank / Pasta & Nudeln / Pasta
-2389,Lebensmittel / Vorratsschrank / Essiggurken und eingelegtes Gemüse
-2390,Lebensmittel / Vorratsschrank / Algen
-2391,Lebensmittel / Vorratsschrank / Gewürze
-2392,Lebensmittel / Vorratsschrank / Getrocknete Tomaten
-2393,Lebensmittel / Vorratsschrank / Superfood-Pulver
-2394,Lebensmittel / Vorratsschrank / Süßungsmittel
-2395,Lebensmittel / Vorratsschrank / Süßungsmittel / Honig
-2396,Lebensmittel / Pflanzliche Alternativen
-2397,Lebensmittel / Pflanzliche Alternativen / Tofu
-2398,Lebensmittel / Fertiggerichte
-2399,Lebensmittel / Fertiggerichte / Vorspeisen
-2400,Lebensmittel / Fertiggerichte / Asiatische Küche
-2401,Lebensmittel / Fertiggerichte / Asiatische Küche / Dim Sum
-2402,Lebensmittel / Fertiggerichte / Obstsalat
-2403,Lebensmittel / Fertiggerichte / Frühstück
-2404,Lebensmittel / Fertiggerichte / Buffet
-2405,Lebensmittel / Fertiggerichte / Burger
-2406,Lebensmittel / Fertiggerichte / Hähnchengerichte
-2407,Lebensmittel / Fertiggerichte / Menüs
-2408,Lebensmittel / Fertiggerichte / Desserts
-2409,Lebensmittel / Fertiggerichte / Teigtaschen
-2410,Lebensmittel / Fertiggerichte / Eierspeisen
-2411,Lebensmittel / Fertiggerichte / Fladenbrote
-2412,Lebensmittel / Fertiggerichte / Pommes Frites
-2413,Lebensmittel / Fertiggerichte / TK-Gerichte
-2414,Lebensmittel / Fertiggerichte / Obstsalate
-2415,Lebensmittel / Fertiggerichte / Hot Dogs
-2416,Lebensmittel / Fertiggerichte / Lasagne
-2417,Lebensmittel / Fertiggerichte / Fleischgerichte
-2418,Lebensmittel / Fertiggerichte / Mexikanische Küche
-2419,Lebensmittel / Fertiggerichte / Mexikanische Küche / Burritos
-2420,Lebensmittel / Fertiggerichte / Mexikanische Küche / Tacos
-2421,Lebensmittel / Fertiggerichte / Pasta & Nudeln
-2422,Lebensmittel / Fertiggerichte / Pasta & Nudeln / Pasta
-2423,Lebensmittel / Fertiggerichte / Pasteten
-2424,Lebensmittel / Fertiggerichte / Pizza
-2425,Lebensmittel / Fertiggerichte / Haferbrei
-2426,Lebensmittel / Fertiggerichte / Quiche
-2427,Lebensmittel / Fertiggerichte / Reisgerichte
-2428,Lebensmittel / Fertiggerichte / Reisgerichte / Hühnchen mit Reis
-2429,Lebensmittel / Fertiggerichte / Salate
-2430,Lebensmittel / Fertiggerichte / Sandwiches
-2431,Lebensmittel / Fertiggerichte / Sandwiches / Croissant-Sandwiches
-2432,Lebensmittel / Fertiggerichte / Herzhaftes Gebäck
-2433,Lebensmittel / Fertiggerichte / Meeresfrüchte
-2434,Lebensmittel / Fertiggerichte / Fischgerichte
-2435,Lebensmittel / Fertiggerichte / Beilagen
-2436,Lebensmittel / Fertiggerichte / Beilagen / Kartoffelpüree
-2437,Lebensmittel / Fertiggerichte / Suppen
-2438,Lebensmittel / Fertiggerichte / Suppen / Rindersuppe
-2439,Lebensmittel / Fertiggerichte / Suppen / Kuttelsuppe
-2440,Lebensmittel / Fertiggerichte / Suppen / Hühnersuppe
-2441,Lebensmittel / Fertiggerichte / Suppen / Sahnesuppe
-2442,Lebensmittel / Fertiggerichte / Suppen / Fleischsuppe
-2443,Lebensmittel / Fertiggerichte / Suppen / Pilzsuppe
-2444,Lebensmittel / Fertiggerichte / Suppen / Schweinesuppe
-2445,Lebensmittel / Fertiggerichte / Suppen / Fischsuppe
-2446,Lebensmittel / Fertiggerichte / Suppen / Algensuppe
-2447,Lebensmittel / Fertiggerichte / Sushi
-2448,Lebensmittel / Fertiggerichte / Sushi / Sushi-Platten
-2449,Lebensmittel / Fertiggerichte / Sushi / Gunkan
-2450,Lebensmittel / Fertiggerichte / Sushi / Nigiri
-2451,Lebensmittel / Fertiggerichte / Sushi / Maki-Rollen
-2452,Lebensmittel / Fertiggerichte / Gemüsegerichte
-2453,Lebensmittel / Konserven & Haltbares
-2454,Lebensmittel / Konserven & Haltbares / Konserven
-2455,Lebensmittel / Konserven & Haltbares / Oliven
-2456,Lebensmittel / Konserven & Haltbares / Palmherzen
-2457,Lebensmittel / Konserven & Haltbares / Eingelegtes
-2458,Lebensmittel / Gastronomiebedarf
-2459,Lebensmittel / Gastronomiebedarf / Fischgerichte
-2460,Lebensmittel / Saucen
-2461,Lebensmittel / Saucen / Chilisaucen
-2462,Lebensmittel / Saucen / Kochsaucen
-2463,Lebensmittel / Saucen / Dips
-2464,Lebensmittel / Saucen / Fischsauce
-2465,Lebensmittel / Saucen / Glasuren
-2466,Lebensmittel / Saucen / Meerrettichsauce
-2467,Lebensmittel / Saucen / Scharfe Saucen
-2468,Lebensmittel / Saucen / Marinaden
-2469,Lebensmittel / Saucen / Mayonnaise
-2470,Lebensmittel / Saucen / Senf
-2471,Lebensmittel / Saucen / Austernsauce
-2472,Lebensmittel / Saucen / Pesto
-2473,Lebensmittel / Saucen / Salatdressings
-2474,Lebensmittel / Saucen / Sojasauce
-2475,Lebensmittel / Saucen / Spezialitätensaucen
-2476,Lebensmittel / Saucen / Tafelsaucen
-2477,Lebensmittel / Fisch & Meeresfrüchte
-2478,Lebensmittel / Fisch & Meeresfrüchte / Kabeljau
-2479,Lebensmittel / Fisch & Meeresfrüchte / Trockenfisch
-2480,Lebensmittel / Fisch & Meeresfrüchte / Fisch
-2481,Lebensmittel / Fisch & Meeresfrüchte / Fisch / Panierter Fisch
-2482,Lebensmittel / Fisch & Meeresfrüchte / Fisch / Fischkonserven
-2483,Lebensmittel / Fisch & Meeresfrüchte / Fisch / Trockenfisch
-2484,Lebensmittel / Fisch & Meeresfrüchte / Fisch / Fischmilch
-2485,Lebensmittel / Fisch & Meeresfrüchte / Fisch / Fischrogen
-2486,Lebensmittel / Fisch & Meeresfrüchte / Fisch / Zubereiteter Fisch
-2487,Lebensmittel / Fisch & Meeresfrüchte / Fisch / Lachs
-2488,Lebensmittel / Fisch & Meeresfrüchte / Fisch / Räucherfisch
-2489,Lebensmittel / Fisch & Meeresfrüchte / Fisch / Thunfisch
-2490,Lebensmittel / Fisch & Meeresfrüchte / Miesmuscheln
-2491,Lebensmittel / Fisch & Meeresfrüchte / Verarbeitete Meeresfrüchte
-2492,Lebensmittel / Fisch & Meeresfrüchte / Sashimi
-2493,Lebensmittel / Fisch & Meeresfrüchte / Algen
-2494,Lebensmittel / Fisch & Meeresfrüchte / Schalentiere
-2495,Lebensmittel / Fisch & Meeresfrüchte / Räucherfisch
-2496,Lebensmittel / Fisch & Meeresfrüchte / Räucherfisch / Räucherlachs
-2497,Lebensmittel / Gewürze
-2498,Lebensmittel / Gewürze / Zimt
-2499,Lebensmittel / Gewürze / Knuspriger Lauch
-2500,Lebensmittel / Gewürze / Röstzwiebeln
-2501,Lebensmittel / Gewürze / Getrocknetes Gemüse
-2502,Lebensmittel / Gewürze / Getrocknete Paprikaflocken
-2503,Lebensmittel / Gewürze / Getrocknete Kräuter
-2504,Lebensmittel / Gewürze / Getrocknete Paprika
-2505,Lebensmittel / Gewürze / Geschmacksverstärker
-2506,Lebensmittel / Gewürze / Knoblauch
-2507,Lebensmittel / Gewürze / Kräuter
-2508,Lebensmittel / Gewürze / Oregano
+2380,Lebensmittel / Vorratsschrank / Konfitüren und Marmeladen
+2381,Lebensmittel / Vorratsschrank / Öle & Essige
+2382,Lebensmittel / Vorratsschrank / Öle & Essige / Olivenöl
+2383,Lebensmittel / Vorratsschrank / Öle & Essige / Erdnussöl
+2384,Lebensmittel / Vorratsschrank / Öle & Essige / Essig
+2385,Lebensmittel / Vorratsschrank / Pasta & Nudeln
+2386,Lebensmittel / Vorratsschrank / Pasta & Nudeln / Pasta
+2387,Lebensmittel / Vorratsschrank / Essiggurken und eingelegtes Gemüse
+2388,Lebensmittel / Vorratsschrank / Algen
+2389,Lebensmittel / Vorratsschrank / Getrocknete Tomaten
+2390,Lebensmittel / Vorratsschrank / Superfood-Pulver
+2391,Lebensmittel / Vorratsschrank / Süßungsmittel
+2392,Lebensmittel / Vorratsschrank / Süßungsmittel / Honig
+2393,Lebensmittel / Pflanzliche Alternativen
+2394,Lebensmittel / Pflanzliche Alternativen / Tofu
+2395,Lebensmittel / Fertiggerichte
+2396,Lebensmittel / Fertiggerichte / Vorspeisen
+2397,Lebensmittel / Fertiggerichte / Asiatische Küche
+2398,Lebensmittel / Fertiggerichte / Asiatische Küche / Dim Sum
+2399,Lebensmittel / Fertiggerichte / Obstsalat
+2400,Lebensmittel / Fertiggerichte / Frühstück
+2401,Lebensmittel / Fertiggerichte / Buffet
+2402,Lebensmittel / Fertiggerichte / Burger
+2403,Lebensmittel / Fertiggerichte / Hähnchengerichte
+2404,Lebensmittel / Fertiggerichte / Menüs
+2405,Lebensmittel / Fertiggerichte / Desserts
+2406,Lebensmittel / Fertiggerichte / Teigtaschen
+2407,Lebensmittel / Fertiggerichte / Eierspeisen
+2408,Lebensmittel / Fertiggerichte / Fladenbrote
+2409,Lebensmittel / Fertiggerichte / Pommes Frites
+2410,Lebensmittel / Fertiggerichte / TK-Gerichte
+2411,Lebensmittel / Fertiggerichte / Obstsalate
+2412,Lebensmittel / Fertiggerichte / Hot Dogs
+2413,Lebensmittel / Fertiggerichte / Lasagne
+2414,Lebensmittel / Fertiggerichte / Fleischgerichte
+2415,Lebensmittel / Fertiggerichte / Mexikanische Küche
+2416,Lebensmittel / Fertiggerichte / Mexikanische Küche / Burritos
+2417,Lebensmittel / Fertiggerichte / Mexikanische Küche / Tacos
+2418,Lebensmittel / Fertiggerichte / Pasta & Nudeln
+2419,Lebensmittel / Fertiggerichte / Pasta & Nudeln / Pasta
+2420,Lebensmittel / Fertiggerichte / Pasteten
+2421,Lebensmittel / Fertiggerichte / Pizza
+2422,Lebensmittel / Fertiggerichte / Haferbrei
+2423,Lebensmittel / Fertiggerichte / Quiche
+2424,Lebensmittel / Fertiggerichte / Reisgerichte
+2425,Lebensmittel / Fertiggerichte / Reisgerichte / Hühnchen mit Reis
+2426,Lebensmittel / Fertiggerichte / Salate
+2427,Lebensmittel / Fertiggerichte / Sandwiches
+2428,Lebensmittel / Fertiggerichte / Sandwiches / Croissant-Sandwiches
+2429,Lebensmittel / Fertiggerichte / Herzhaftes Gebäck
+2430,Lebensmittel / Fertiggerichte / Meeresfrüchte
+2431,Lebensmittel / Fertiggerichte / Fischgerichte
+2432,Lebensmittel / Fertiggerichte / Beilagen
+2433,Lebensmittel / Fertiggerichte / Beilagen / Kartoffelpüree
+2434,Lebensmittel / Fertiggerichte / Suppen
+2435,Lebensmittel / Fertiggerichte / Suppen / Rindersuppe
+2436,Lebensmittel / Fertiggerichte / Suppen / Kuttelsuppe
+2437,Lebensmittel / Fertiggerichte / Suppen / Hühnersuppe
+2438,Lebensmittel / Fertiggerichte / Suppen / Sahnesuppe
+2439,Lebensmittel / Fertiggerichte / Suppen / Fleischsuppe
+2440,Lebensmittel / Fertiggerichte / Suppen / Pilzsuppe
+2441,Lebensmittel / Fertiggerichte / Suppen / Schweinesuppe
+2442,Lebensmittel / Fertiggerichte / Suppen / Fischsuppe
+2443,Lebensmittel / Fertiggerichte / Suppen / Algensuppe
+2444,Lebensmittel / Fertiggerichte / Sushi
+2445,Lebensmittel / Fertiggerichte / Sushi / Sushi-Platten
+2446,Lebensmittel / Fertiggerichte / Sushi / Gunkan
+2447,Lebensmittel / Fertiggerichte / Sushi / Nigiri
+2448,Lebensmittel / Fertiggerichte / Sushi / Maki-Rollen
+2449,Lebensmittel / Fertiggerichte / Gemüsegerichte
+2450,Lebensmittel / Konserven & Haltbares
+2451,Lebensmittel / Konserven & Haltbares / Konserven
+2452,Lebensmittel / Konserven & Haltbares / Oliven
+2453,Lebensmittel / Konserven & Haltbares / Palmherzen
+2454,Lebensmittel / Konserven & Haltbares / Eingelegtes
+2455,Lebensmittel / Gastronomiebedarf
+2456,Lebensmittel / Gastronomiebedarf / Fischgerichte
+2457,Lebensmittel / Saucen
+2458,Lebensmittel / Saucen / Chilisaucen
+2459,Lebensmittel / Saucen / Kochsaucen
+2460,Lebensmittel / Saucen / Dips
+2461,Lebensmittel / Saucen / Fischsauce
+2462,Lebensmittel / Saucen / Glasuren
+2463,Lebensmittel / Saucen / Meerrettichsauce
+2464,Lebensmittel / Saucen / Scharfe Saucen
+2465,Lebensmittel / Saucen / Marinaden
+2466,Lebensmittel / Saucen / Mayonnaise
+2467,Lebensmittel / Saucen / Senf
+2468,Lebensmittel / Saucen / Austernsauce
+2469,Lebensmittel / Saucen / Pesto
+2470,Lebensmittel / Saucen / Salatdressings
+2471,Lebensmittel / Saucen / Sojasauce
+2472,Lebensmittel / Saucen / Spezialitätensaucen
+2473,Lebensmittel / Saucen / Tafelsaucen
+2474,Lebensmittel / Fisch & Meeresfrüchte
+2475,Lebensmittel / Fisch & Meeresfrüchte / Kabeljau
+2476,Lebensmittel / Fisch & Meeresfrüchte / Trockenfisch
+2477,Lebensmittel / Fisch & Meeresfrüchte / Fisch
+2478,Lebensmittel / Fisch & Meeresfrüchte / Fisch / Panierter Fisch
+2479,Lebensmittel / Fisch & Meeresfrüchte / Fisch / Fischkonserven
+2480,Lebensmittel / Fisch & Meeresfrüchte / Fisch / Trockenfisch
+2481,Lebensmittel / Fisch & Meeresfrüchte / Fisch / Fischmilch
+2482,Lebensmittel / Fisch & Meeresfrüchte / Fisch / Fischrogen
+2483,Lebensmittel / Fisch & Meeresfrüchte / Fisch / Zubereiteter Fisch
+2484,Lebensmittel / Fisch & Meeresfrüchte / Fisch / Lachs
+2485,Lebensmittel / Fisch & Meeresfrüchte / Fisch / Räucherfisch
+2486,Lebensmittel / Fisch & Meeresfrüchte / Fisch / Thunfisch
+2487,Lebensmittel / Fisch & Meeresfrüchte / Miesmuscheln
+2488,Lebensmittel / Fisch & Meeresfrüchte / Verarbeitete Meeresfrüchte
+2489,Lebensmittel / Fisch & Meeresfrüchte / Sashimi
+2490,Lebensmittel / Fisch & Meeresfrüchte / Algen
+2491,Lebensmittel / Fisch & Meeresfrüchte / Schalentiere
+2492,Lebensmittel / Fisch & Meeresfrüchte / Räucherfisch
+2493,Lebensmittel / Fisch & Meeresfrüchte / Räucherfisch / Räucherlachs
+2494,Lebensmittel / Gewürze
+2495,Lebensmittel / Gewürze / Basilikum
+2496,Lebensmittel / Gewürze / Lorbeerblatt
+2497,Lebensmittel / Gewürze / Zimt
+2498,Lebensmittel / Gewürze / Knuspriger Lauch
+2499,Lebensmittel / Gewürze / Röstzwiebeln
+2500,Lebensmittel / Gewürze / Getrocknetes Gemüse
+2501,Lebensmittel / Gewürze / Getrocknete Paprikaflocken
+2502,Lebensmittel / Gewürze / Getrocknete Paprika
+2503,Lebensmittel / Gewürze / Geschmacksverstärker
+2504,Lebensmittel / Gewürze / Knoblauch
+2505,Lebensmittel / Gewürze / Ingwer
+2506,Lebensmittel / Gewürze / Kräuter
+2507,Lebensmittel / Gewürze / Oregano
+2508,Lebensmittel / Gewürze / Petersilie
 2509,Lebensmittel / Gewürze / Pfeffer
 2510,Lebensmittel / Gewürze / Safran
 2511,Lebensmittel / Gewürze / Salz

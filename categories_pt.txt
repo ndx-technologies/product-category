@@ -2379,135 +2379,135 @@
 2377,Alimentos / Despensa / Enlatados e Conservas / Conservas e Fermentados
 2378,Alimentos / Despensa / Enlatados e Conservas / Legumes em conserva
 2379,Alimentos / Despensa / Cogumelos secos
-2380,Alimentos / Despensa / Ervas e especiarias
-2381,Alimentos / Despensa / Ervas e especiarias / Ervas secas
-2382,Alimentos / Despensa / Geleias e conservas
-2383,Alimentos / Despensa / Óleos e Vinagres
-2384,Alimentos / Despensa / Óleos e Vinagres / Azeite de Oliva
-2385,Alimentos / Despensa / Óleos e Vinagres / Óleo de Amendoim
-2386,Alimentos / Despensa / Óleos e Vinagres / Vinagre
-2387,Alimentos / Despensa / Massas
-2388,Alimentos / Despensa / Massas / Macarrão
-2389,Alimentos / Despensa / Picles e conservas de legumes
-2390,Alimentos / Despensa / Algas
-2391,Alimentos / Despensa / Especiarias
-2392,Alimentos / Despensa / Tomates secos
-2393,Alimentos / Despensa / Pós de superalimentos
-2394,Alimentos / Despensa / Adoçantes
-2395,Alimentos / Despensa / Adoçantes / Mel
-2396,Alimentos / Alternativas Vegetais
-2397,Alimentos / Alternativas Vegetais / Tofu
-2398,Alimentos / Refeições Prontas
-2399,Alimentos / Refeições Prontas / Entradas
-2400,Alimentos / Refeições Prontas / Culinária Asiática
-2401,Alimentos / Refeições Prontas / Culinária Asiática / Dim Sum
-2402,Alimentos / Refeições Prontas / Frutas Cortadas
-2403,Alimentos / Refeições Prontas / Café da Manhã
-2404,Alimentos / Refeições Prontas / Buffet
-2405,Alimentos / Refeições Prontas / Hambúrgueres
-2406,Alimentos / Refeições Prontas / Pratos de Frango
-2407,Alimentos / Refeições Prontas / Combos
-2408,Alimentos / Refeições Prontas / Sobremesas
-2409,Alimentos / Refeições Prontas / Bolinhos
-2410,Alimentos / Refeições Prontas / Pratos com Ovos
-2411,Alimentos / Refeições Prontas / Pães Planos
-2412,Alimentos / Refeições Prontas / Batatas Fritas
-2413,Alimentos / Refeições Prontas / Refeições congeladas
-2414,Alimentos / Refeições Prontas / Saladas de Frutas
-2415,Alimentos / Refeições Prontas / Cachorros-Quentes
-2416,Alimentos / Refeições Prontas / Lasanha
-2417,Alimentos / Refeições Prontas / Pratos de Carne
-2418,Alimentos / Refeições Prontas / Culinária Mexicana
-2419,Alimentos / Refeições Prontas / Culinária Mexicana / Burrito
-2420,Alimentos / Refeições Prontas / Culinária Mexicana / Tacos
-2421,Alimentos / Refeições Prontas / Massas & Macarrão
-2422,Alimentos / Refeições Prontas / Massas & Macarrão / Massa
-2423,Alimentos / Refeições Prontas / Tortas
-2424,Alimentos / Refeições Prontas / Pizza
-2425,Alimentos / Refeições Prontas / Mingau
-2426,Alimentos / Refeições Prontas / Quiche
-2427,Alimentos / Refeições Prontas / Pratos de Arroz
-2428,Alimentos / Refeições Prontas / Pratos de Arroz / Arroz com Frango
-2429,Alimentos / Refeições Prontas / Saladas
-2430,Alimentos / Refeições Prontas / Sanduíches
-2431,Alimentos / Refeições Prontas / Sanduíches / Sanduíche de Croissant
-2432,Alimentos / Refeições Prontas / Assados Salgados
-2433,Alimentos / Refeições Prontas / Frutos do Mar
-2434,Alimentos / Refeições Prontas / Pratos de Frutos do Mar
-2435,Alimentos / Refeições Prontas / Acompanhamentos
-2436,Alimentos / Refeições Prontas / Acompanhamentos / Purê de Batata
-2437,Alimentos / Refeições Prontas / Sopas
-2438,Alimentos / Refeições Prontas / Sopas / Sopa de Carne Bovina
-2439,Alimentos / Refeições Prontas / Sopas / Dobradinha
-2440,Alimentos / Refeições Prontas / Sopas / Sopa de Frango
-2441,Alimentos / Refeições Prontas / Sopas / Sopa cremosa
-2442,Alimentos / Refeições Prontas / Sopas / Sopa de Carne
-2443,Alimentos / Refeições Prontas / Sopas / Sopa de Cogumelos
-2444,Alimentos / Refeições Prontas / Sopas / Sopa de Porco
-2445,Alimentos / Refeições Prontas / Sopas / Sopa de Frutos do Mar
-2446,Alimentos / Refeições Prontas / Sopas / Sopa de Algas
-2447,Alimentos / Refeições Prontas / Sushi
-2448,Alimentos / Refeições Prontas / Sushi / Sortidos
-2449,Alimentos / Refeições Prontas / Sushi / Gunkan
-2450,Alimentos / Refeições Prontas / Sushi / Nigiri
-2451,Alimentos / Refeições Prontas / Sushi / Rolos
-2452,Alimentos / Refeições Prontas / Pratos de Vegetais
-2453,Alimentos / Alimentos em Conserva
-2454,Alimentos / Alimentos em Conserva / Enlatados
-2455,Alimentos / Alimentos em Conserva / Azeitonas
-2456,Alimentos / Alimentos em Conserva / Palmito
-2457,Alimentos / Alimentos em Conserva / Picles
-2458,Alimentos / Itens de Restaurante & Café
-2459,Alimentos / Itens de Restaurante & Café / Pratos de Frutos do Mar
-2460,Alimentos / Molhos
-2461,Alimentos / Molhos / Molhos de Pimenta
-2462,Alimentos / Molhos / Molhos para Cozinhar
-2463,Alimentos / Molhos / Molhos para Mergulhar
-2464,Alimentos / Molhos / Molho de Peixe
-2465,Alimentos / Molhos / Coberturas
-2466,Alimentos / Molhos / Molho de Raiz-Forte
-2467,Alimentos / Molhos / Molho de Pimenta
-2468,Alimentos / Molhos / Marinadas
-2469,Alimentos / Molhos / Maionese
-2470,Alimentos / Molhos / Mostarda
-2471,Alimentos / Molhos / Molho de Ostra
-2472,Alimentos / Molhos / Pesto
-2473,Alimentos / Molhos / Molhos para Salada
-2474,Alimentos / Molhos / Molho de Soja
-2475,Alimentos / Molhos / Molhos Especiais
-2476,Alimentos / Molhos / Molhos de Mesa
-2477,Alimentos / Frutos do Mar
-2478,Alimentos / Frutos do Mar / Bacalhau
-2479,Alimentos / Frutos do Mar / Peixe Seco
-2480,Alimentos / Frutos do Mar / Peixe
-2481,Alimentos / Frutos do Mar / Peixe / Peixe Empanado
-2482,Alimentos / Frutos do Mar / Peixe / Peixe em Conserva
-2483,Alimentos / Frutos do Mar / Peixe / Peixe Seco
-2484,Alimentos / Frutos do Mar / Peixe / Sêmen de Peixe
-2485,Alimentos / Frutos do Mar / Peixe / Ovas de Peixe
-2486,Alimentos / Frutos do Mar / Peixe / Peixe Preparado
-2487,Alimentos / Frutos do Mar / Peixe / Salmão
-2488,Alimentos / Frutos do Mar / Peixe / Peixe Defumado
-2489,Alimentos / Frutos do Mar / Peixe / Atum
-2490,Alimentos / Frutos do Mar / Mexilhões
-2491,Alimentos / Frutos do Mar / Frutos do Mar Processados
-2492,Alimentos / Frutos do Mar / Sashimi
-2493,Alimentos / Frutos do Mar / Algas
-2494,Alimentos / Frutos do Mar / Mariscos
-2495,Alimentos / Frutos do Mar / Peixe Defumado
-2496,Alimentos / Frutos do Mar / Peixe Defumado / Salmão Defumado
-2497,Alimentos / Temperos
-2498,Alimentos / Temperos / Canela
-2499,Alimentos / Temperos / Alho-poró frito crocante
-2500,Alimentos / Temperos / Cebola frita crocante
-2501,Alimentos / Temperos / Legumes desidratados
-2502,Alimentos / Temperos / Flocos de pimentão seco
-2503,Alimentos / Temperos / Ervas secas
-2504,Alimentos / Temperos / Pimentas secas
-2505,Alimentos / Temperos / Realçadores de sabor
-2506,Alimentos / Temperos / Alho
-2507,Alimentos / Temperos / Ervas
-2508,Alimentos / Temperos / Orégano
+2380,Alimentos / Despensa / Geleias e conservas
+2381,Alimentos / Despensa / Óleos e Vinagres
+2382,Alimentos / Despensa / Óleos e Vinagres / Azeite de Oliva
+2383,Alimentos / Despensa / Óleos e Vinagres / Óleo de Amendoim
+2384,Alimentos / Despensa / Óleos e Vinagres / Vinagre
+2385,Alimentos / Despensa / Massas
+2386,Alimentos / Despensa / Massas / Macarrão
+2387,Alimentos / Despensa / Picles e conservas de legumes
+2388,Alimentos / Despensa / Algas
+2389,Alimentos / Despensa / Tomates secos
+2390,Alimentos / Despensa / Pós de superalimentos
+2391,Alimentos / Despensa / Adoçantes
+2392,Alimentos / Despensa / Adoçantes / Mel
+2393,Alimentos / Alternativas Vegetais
+2394,Alimentos / Alternativas Vegetais / Tofu
+2395,Alimentos / Refeições Prontas
+2396,Alimentos / Refeições Prontas / Entradas
+2397,Alimentos / Refeições Prontas / Culinária Asiática
+2398,Alimentos / Refeições Prontas / Culinária Asiática / Dim Sum
+2399,Alimentos / Refeições Prontas / Frutas Cortadas
+2400,Alimentos / Refeições Prontas / Café da Manhã
+2401,Alimentos / Refeições Prontas / Buffet
+2402,Alimentos / Refeições Prontas / Hambúrgueres
+2403,Alimentos / Refeições Prontas / Pratos de Frango
+2404,Alimentos / Refeições Prontas / Combos
+2405,Alimentos / Refeições Prontas / Sobremesas
+2406,Alimentos / Refeições Prontas / Bolinhos
+2407,Alimentos / Refeições Prontas / Pratos com Ovos
+2408,Alimentos / Refeições Prontas / Pães Planos
+2409,Alimentos / Refeições Prontas / Batatas Fritas
+2410,Alimentos / Refeições Prontas / Refeições congeladas
+2411,Alimentos / Refeições Prontas / Saladas de Frutas
+2412,Alimentos / Refeições Prontas / Cachorros-Quentes
+2413,Alimentos / Refeições Prontas / Lasanha
+2414,Alimentos / Refeições Prontas / Pratos de Carne
+2415,Alimentos / Refeições Prontas / Culinária Mexicana
+2416,Alimentos / Refeições Prontas / Culinária Mexicana / Burrito
+2417,Alimentos / Refeições Prontas / Culinária Mexicana / Tacos
+2418,Alimentos / Refeições Prontas / Massas & Macarrão
+2419,Alimentos / Refeições Prontas / Massas & Macarrão / Massa
+2420,Alimentos / Refeições Prontas / Tortas
+2421,Alimentos / Refeições Prontas / Pizza
+2422,Alimentos / Refeições Prontas / Mingau
+2423,Alimentos / Refeições Prontas / Quiche
+2424,Alimentos / Refeições Prontas / Pratos de Arroz
+2425,Alimentos / Refeições Prontas / Pratos de Arroz / Arroz com Frango
+2426,Alimentos / Refeições Prontas / Saladas
+2427,Alimentos / Refeições Prontas / Sanduíches
+2428,Alimentos / Refeições Prontas / Sanduíches / Sanduíche de Croissant
+2429,Alimentos / Refeições Prontas / Assados Salgados
+2430,Alimentos / Refeições Prontas / Frutos do Mar
+2431,Alimentos / Refeições Prontas / Pratos de Frutos do Mar
+2432,Alimentos / Refeições Prontas / Acompanhamentos
+2433,Alimentos / Refeições Prontas / Acompanhamentos / Purê de Batata
+2434,Alimentos / Refeições Prontas / Sopas
+2435,Alimentos / Refeições Prontas / Sopas / Sopa de Carne Bovina
+2436,Alimentos / Refeições Prontas / Sopas / Dobradinha
+2437,Alimentos / Refeições Prontas / Sopas / Sopa de Frango
+2438,Alimentos / Refeições Prontas / Sopas / Sopa cremosa
+2439,Alimentos / Refeições Prontas / Sopas / Sopa de Carne
+2440,Alimentos / Refeições Prontas / Sopas / Sopa de Cogumelos
+2441,Alimentos / Refeições Prontas / Sopas / Sopa de Porco
+2442,Alimentos / Refeições Prontas / Sopas / Sopa de Frutos do Mar
+2443,Alimentos / Refeições Prontas / Sopas / Sopa de Algas
+2444,Alimentos / Refeições Prontas / Sushi
+2445,Alimentos / Refeições Prontas / Sushi / Sortidos
+2446,Alimentos / Refeições Prontas / Sushi / Gunkan
+2447,Alimentos / Refeições Prontas / Sushi / Nigiri
+2448,Alimentos / Refeições Prontas / Sushi / Rolos
+2449,Alimentos / Refeições Prontas / Pratos de Vegetais
+2450,Alimentos / Alimentos em Conserva
+2451,Alimentos / Alimentos em Conserva / Enlatados
+2452,Alimentos / Alimentos em Conserva / Azeitonas
+2453,Alimentos / Alimentos em Conserva / Palmito
+2454,Alimentos / Alimentos em Conserva / Picles
+2455,Alimentos / Itens de Restaurante & Café
+2456,Alimentos / Itens de Restaurante & Café / Pratos de Frutos do Mar
+2457,Alimentos / Molhos
+2458,Alimentos / Molhos / Molhos de Pimenta
+2459,Alimentos / Molhos / Molhos para Cozinhar
+2460,Alimentos / Molhos / Molhos para Mergulhar
+2461,Alimentos / Molhos / Molho de Peixe
+2462,Alimentos / Molhos / Coberturas
+2463,Alimentos / Molhos / Molho de Raiz-Forte
+2464,Alimentos / Molhos / Molho de Pimenta
+2465,Alimentos / Molhos / Marinadas
+2466,Alimentos / Molhos / Maionese
+2467,Alimentos / Molhos / Mostarda
+2468,Alimentos / Molhos / Molho de Ostra
+2469,Alimentos / Molhos / Pesto
+2470,Alimentos / Molhos / Molhos para Salada
+2471,Alimentos / Molhos / Molho de Soja
+2472,Alimentos / Molhos / Molhos Especiais
+2473,Alimentos / Molhos / Molhos de Mesa
+2474,Alimentos / Frutos do Mar
+2475,Alimentos / Frutos do Mar / Bacalhau
+2476,Alimentos / Frutos do Mar / Peixe Seco
+2477,Alimentos / Frutos do Mar / Peixe
+2478,Alimentos / Frutos do Mar / Peixe / Peixe Empanado
+2479,Alimentos / Frutos do Mar / Peixe / Peixe em Conserva
+2480,Alimentos / Frutos do Mar / Peixe / Peixe Seco
+2481,Alimentos / Frutos do Mar / Peixe / Sêmen de Peixe
+2482,Alimentos / Frutos do Mar / Peixe / Ovas de Peixe
+2483,Alimentos / Frutos do Mar / Peixe / Peixe Preparado
+2484,Alimentos / Frutos do Mar / Peixe / Salmão
+2485,Alimentos / Frutos do Mar / Peixe / Peixe Defumado
+2486,Alimentos / Frutos do Mar / Peixe / Atum
+2487,Alimentos / Frutos do Mar / Mexilhões
+2488,Alimentos / Frutos do Mar / Frutos do Mar Processados
+2489,Alimentos / Frutos do Mar / Sashimi
+2490,Alimentos / Frutos do Mar / Algas
+2491,Alimentos / Frutos do Mar / Mariscos
+2492,Alimentos / Frutos do Mar / Peixe Defumado
+2493,Alimentos / Frutos do Mar / Peixe Defumado / Salmão Defumado
+2494,Alimentos / Temperos
+2495,Alimentos / Temperos / Manjericão
+2496,Alimentos / Temperos / Folha de louro
+2497,Alimentos / Temperos / Canela
+2498,Alimentos / Temperos / Alho-poró frito crocante
+2499,Alimentos / Temperos / Cebola frita crocante
+2500,Alimentos / Temperos / Legumes desidratados
+2501,Alimentos / Temperos / Flocos de pimentão seco
+2502,Alimentos / Temperos / Pimentas secas
+2503,Alimentos / Temperos / Realçadores de sabor
+2504,Alimentos / Temperos / Alho
+2505,Alimentos / Temperos / Gengibre
+2506,Alimentos / Temperos / Ervas
+2507,Alimentos / Temperos / Orégano
+2508,Alimentos / Temperos / Salsa
 2509,Alimentos / Temperos / Pimenta
 2510,Alimentos / Temperos / Açafrão
 2511,Alimentos / Temperos / Sal
