@@ -3704,7 +3704,6 @@
 3702,Automotive / Drivetrain
 3703,Automotive / Electric Motors
 3704,Automotive / Emblems
-3705,Automotive / Floor Liners
 3706,Automotive / Fuel Tank Caps
 3707,Automotive / Gas Struts
 3708,Automotive / Hood Parts
@@ -3716,13 +3715,11 @@
 3714,Automotive / Pinion Gears
 3715,Automotive / Protective Films
 3716,Automotive / Pumps
-3717,Automotive / Spare Parts
 3718,Automotive / Spare Wheel Covers
 3719,Automotive / Trunk Parts
 3720,Automotive / Wheels & Tyres
 3721,Automotive / Windshield Washer Nozzles
 3722,Automotive / Wiper Arms
-3723,Baby & Kids / Baby Essentials
 3724,Baby & Kids / Step Stools
 3725,Baby & Kids / Travel Gear
 3726,Beauty & Personal Care / Beard Care
@@ -3769,7 +3766,6 @@
 3767,Electronics / Toner & Ink Cartridges
 3768,Electronics / Voice Recorders
 3769,Food / Bread & Bakery
-3770,Food / Ready Meals
 3771,Hardware / Ducting
 3772,Hardware / Electrical & Plumbing
 3773,Hardware / Fastening & Drilling
@@ -3781,7 +3777,6 @@
 3779,Hardware / Springs
 3780,Hardware / Tapes & Adhesives
 3781,Health / Dietary Supplements
-3782,Health / Medical Equipment
 3783,Home & Garden / Fireplaces
 3784,Home & Garden / Garden Accessories
 3785,Home & Garden / Garden Soil Preparation
@@ -3807,14 +3802,11 @@
 3805,Office Supplies / Document Holders
 3806,Office Supplies / Document Protectors
 3807,Office Supplies / Ink
-3808,Office Supplies / Journals
 3809,Office Supplies / Laminating
 3810,Office Supplies / Magnifiers
 3811,Office Supplies / Packaging Materials
-3812,Office Supplies / Page Markers
 3813,Office Supplies / Paper Cutters
 3814,Office Supplies / Paper Shredders
-3815,Office Supplies / Pencil Pouches
 3816,Office Supplies / Price Label Guns
 3817,Office Supplies / Receipt Books
 3818,Office Supplies / Tape Dispensers
@@ -3931,7 +3923,6 @@
 3929,Automotive / Accessories / Tie-Down Straps
 3930,Automotive / Accessories / Tow Bars
 3931,Automotive / Accessories / Window Cranks
-3932,Automotive / Accessories / Window Deflectors
 3933,Automotive / Accessories / Window Visors
 3934,Automotive / Accessories / Windshield Sun Shades
 3935,Automotive / Air Conditioning & Ventilation / Air Vent Trims
@@ -4039,7 +4030,6 @@
 4037,Automotive / Engine & Parts / Flywheels
 4038,Automotive / Engine & Parts / Fuel Injectors
 4039,Automotive / Engine & Parts / Fuel Pumps
-4040,Automotive / Engine & Parts / Gaskets & Seals
 4041,Automotive / Engine & Parts / Housings
 4042,Automotive / Engine & Parts / Idle Air Control Valves
 4043,Automotive / Engine & Parts / Intake Manifolds
@@ -4141,7 +4131,6 @@
 4139,Automotive / Suspension / Lift Kits
 4140,Automotive / Suspension / Shackles
 4141,Automotive / Suspension / Spring Buffers
-4142,Automotive / Suspension / Suspension Arms
 4143,Automotive / Tools & Repairs / Battery Testers
 4144,Automotive / Tools & Repairs / Belt & Pulley Tools
 4145,Automotive / Tools & Repairs / Brake Bleeding Tools
@@ -4162,7 +4151,6 @@
 4160,Automotive / Tools & Repairs / Spatulas
 4161,Automotive / Tools & Repairs / Spring Compressors
 4162,Automotive / Tools & Repairs / Suspension Tools
-4163,Automotive / Tools & Repairs / Tire Pressure Gauges
 4164,Automotive / Tools & Repairs / Tire Repair Tools
 4165,Automotive / Tools & Repairs / Tyre Inflators
 4166,Automotive / Tools & Repairs / Tyre Levers
@@ -4198,7 +4186,6 @@
 4196,Beauty & Personal Care / Bath & Body / Body Sunscreen
 4197,Beauty & Personal Care / Bath & Body / Foot Cream
 4198,Beauty & Personal Care / Bath & Body / Hand Wash
-4199,Beauty & Personal Care / Bath & Body / Soap
 4200,Beauty & Personal Care / Beard Care / Beard Combs
 4201,Beauty & Personal Care / Beard Care / Beard Conditioner
 4202,Beauty & Personal Care / Beard Care / Beard Shampoo
@@ -4210,7 +4197,6 @@
 4208,Beauty & Personal Care / Hair Care / Hair Styling Tools
 4209,Beauty & Personal Care / Hair Care / Hair Ties
 4210,Beauty & Personal Care / Hair Care / Heat Protectant
-4211,Beauty & Personal Care / Hair Care / Shampoo & Conditioner Duos
 4212,Beauty & Personal Care / Hair Care / Spray Bottles
 4213,Beauty & Personal Care / Hair Care / Wigs
 4214,Beauty & Personal Care / Hair Removal / Epilators
@@ -4299,7 +4285,6 @@
 4297,Electronics / Audio / Karaoke Machines
 4298,Electronics / Audio / Megaphones
 4299,Electronics / Audio / Microphone Windscreens
-4300,Electronics / Audio / Record Players
 4301,Electronics / Audio / Signal Processors
 4302,Electronics / Audio / Soundbars
 4303,Electronics / Audio / Speaker Mounts
@@ -4318,7 +4303,6 @@
 4316,Electronics / Computer Components / Etchants
 4317,Electronics / Computer Components / Expansion Cards
 4318,Electronics / Computer Components / Fan Controllers
-4319,Electronics / Computer Components / Laptop Chargers
 4320,Electronics / Computer Components / Thermal Pads
 4321,Electronics / Computer Components / Wi-Fi Cards
 4322,Electronics / Computer Peripherals / Card Readers
@@ -4348,7 +4332,6 @@
 4346,Electronics / Networking / Bluetooth Adapters
 4347,Electronics / Networking / Cable Testers
 4348,Electronics / Networking / Fibre Optic Splitters
-4349,Electronics / Power Accessories / Portable Power Banks
 4350,Electronics / Power Accessories / Power Cords
 4351,Electronics / Printer Consumables / Maintenance Tanks
 4352,Electronics / Printer Parts & Accessories / Printheads
@@ -4376,7 +4359,6 @@
 4374,Food / Baked Goods / Pita Bread
 4375,Food / Baked Goods / Pizza Dough
 4376,Food / Baked Goods / Snack Cakes
-4377,Food / Baking Ingredients / Baking Mixes
 4378,Food / Baking Ingredients / Crepioca Mix
 4379,Food / Baking Ingredients / Dessert Sauces
 4380,Food / Baking Ingredients / Gluten-Free Flours
@@ -4441,12 +4423,9 @@
 4439,Food / Seafood / Cod
 4440,Food / Seafood / Mussels
 4441,Food / Snacks / Banana Chips
-4442,Food / Snacks / Cereal Bars
 4443,Food / Snacks / Dried Fruit
 4444,Food / Snacks / Plant-Based Snacks
 4445,Food / Snacks / Puffed Snacks
-4446,Food / Snacks / Salty Snacks
-4447,Food / Snacks / Savoury Snacks
 4448,Food / Snacks / Vegetable Chips
 4449,Food / Spices & Seasonings / Cinnamon
 4450,Food / Spices & Seasonings / Crispy Fried Leek
@@ -4456,7 +4435,6 @@
 4454,Food / Spices & Seasonings / Dried Herbs
 4455,Food / Spices & Seasonings / Dried Peppers
 4456,Food / Spices & Seasonings / Saffron
-4457,Food / Spreads / Nut Butters
 4458,Hardware / Building Supplies / Abrasives & Cutting Tools
 4459,Hardware / Building Supplies / Building Materials
 4460,Hardware / Building Supplies / Ceiling Coving
@@ -4530,7 +4508,6 @@
 4528,Hardware / Pumps / Bilge Pumps
 4529,Hardware / Pumps / Fuel Nozzles
 4530,Hardware / Pumps / Hand Pumps
-4531,Hardware / Pumps / Immersion Pumps
 4532,Hardware / Pumps / Piston Pumps
 4533,Hardware / Pumps / Pump Controllers
 4534,Hardware / Pumps / Pump Parts
@@ -4593,7 +4570,6 @@
 4591,Health / Medical Supplies / Medical Tape
 4592,Health / Medical Supplies / Nursing Kits
 4593,Health / Medical Supplies / Orthodontic Elastics
-4594,Health / Medical Supplies / Ostomy Bags
 4595,Health / Medical Supplies / Paper Roll Holders
 4596,Health / Medical Supplies / Procedure Basins
 4597,Health / Medical Supplies / Reflex Hammers
@@ -4613,8 +4589,6 @@
 4611,Health / Orthopaedic Care / Bunion Correctors
 4612,Health / Orthopaedic Care / Finger Splints
 4613,Health / Orthopaedic Care / Insoles
-4614,Health / Orthopaedic Care / Knee Braces
-4615,Health / Orthopaedic Care / Orthopaedic Supports
 4616,Health / Orthopaedic Care / Posture Correctors
 4617,Health / Orthopaedic Care / Wrist Splints
 4618,Health / Personal Health Care / Adult Incontinence
@@ -4664,7 +4638,6 @@
 4662,Home & Garden / Garden & Outdoor / Irrigation Timers
 4663,Home & Garden / Garden & Outdoor / Lawn Sprinklers
 4664,Home & Garden / Garden & Outdoor / Log Splitters
-4665,Home & Garden / Garden & Outdoor / Plant Pots
 4666,Home & Garden / Garden & Outdoor / Plant Supports
 4667,Home & Garden / Garden & Outdoor / Plastic Plant Pots
 4668,Home & Garden / Garden & Outdoor / Shade Cloth
@@ -4682,7 +4655,6 @@
 4680,Home & Garden / Garden Tools / Fruit Pickers
 4681,Home & Garden / Garden Tools / Garden Hand Tools
 4682,Home & Garden / Garden Tools / Garden Sieves
-4683,Home & Garden / Garden Tools / Grass Trimmers
 4684,Home & Garden / Garden Tools / Growing Kits
 4685,Home & Garden / Garden Tools / Hand Trowels & Forks
 4686,Home & Garden / Garden Tools / Hedge Trimmers
@@ -4714,7 +4686,6 @@
 4712,Home / Appliances / Appliance Feet
 4713,Home / Appliances / Appliance Filters
 4714,Home / Appliances / Appliance Rollers
-4715,Home / Appliances / Appliance Spares
 4716,Home / Appliances / Appliance Stands
 4717,Home / Appliances / Countertop Ovens
 4718,Home / Appliances / Electric Kettles
@@ -4733,7 +4704,6 @@
 4731,Home / Appliances / Water Bottle Pumps
 4732,Home / Appliances / Water Dispensers & Purifiers
 4733,Home / Appliances / Water Heaters
-4734,Home / Bathroom / Basin Cabinets
 4735,Home / Bathroom / Bathroom Fixtures
 4736,Home / Bathroom / Bathroom Furniture
 4737,Home / Bathroom / Bathroom Mirrors
@@ -4749,7 +4719,6 @@
 4747,Home / Bedding / Bedspreads
 4748,Home / Bedding / Foam Mattresses
 4749,Home / Bedding / Mosquito Nets
-4750,Home / Bedding / Sheet Sets
 4751,Home / Decor / Alarm Clocks
 4752,Home / Decor / Curtain Hardware
 4753,Home / Decor / Curtain Rods
@@ -4761,7 +4730,6 @@
 4759,Home / Furniture / Bed Parts
 4760,Home / Furniture / Chair Back Covers
 4761,Home / Furniture / Computer Desks
-4762,Home / Furniture / Daybeds
 4763,Home / Furniture / Folding Tables
 4764,Home / Furniture / Footrests
 4765,Home / Furniture / Furniture Connectors
@@ -4779,7 +4747,6 @@
 4777,Home / Furniture / Office Counters
 4778,Home / Furniture / Office Furniture
 4779,Home / Furniture / Pantry Cabinets
-4780,Home / Furniture / Service Carts
 4781,Home / Furniture / Sewing Machine Tables
 4782,Home / Furniture / Shelf Units
 4783,Home / Furniture / Step Stools
@@ -4830,7 +4797,6 @@
 4828,Home / Kitchen / Coffee Pod Holders
 4829,Home / Kitchen / Confectionery Tools
 4830,Home / Kitchen / Cooking Timers
-4831,Home / Kitchen / Cooking Utensils
 4832,Home / Kitchen / Cooktop Parts
 4833,Home / Kitchen / Cup Racks
 4834,Home / Kitchen / Cupcake Stands
@@ -4858,7 +4824,6 @@
 4856,Home / Kitchen / Kitchen Scissors
 4857,Home / Kitchen / Kitchen Sets
 4858,Home / Kitchen / Kitchen Timers
-4859,Home / Kitchen / Kitchen Tools
 4860,Home / Kitchen / Knife Sharpeners
 4861,Home / Kitchen / Lazy Susans
 4862,Home / Kitchen / Magnetic Knife Bars
@@ -4885,10 +4850,8 @@
 4883,Home / Kitchen / Salt Shakers
 4884,Home / Kitchen / Sauce Dispensers
 4885,Home / Kitchen / Scales
-4886,Home / Kitchen / Serving Dishes
 4887,Home / Kitchen / Serving Platters
 4888,Home / Kitchen / Serving Sets
-4889,Home / Kitchen / Sieves
 4890,Home / Kitchen / Silicone Moulds
 4891,Home / Kitchen / Sink Baskets
 4892,Home / Kitchen / Sink Caddies
@@ -4936,13 +4899,11 @@
 4934,Home / Safety & Security / CCTV Systems
 4935,Home / Safety & Security / Diversion Safes
 4936,Home / Safety & Security / Door Viewers
-4937,Home / Safety & Security / Doorbell Chimes
 4938,Home / Safety & Security / Electric Fence Energisers
 4939,Home / Safety & Security / Electric Fence Insulators
 4940,Home / Safety & Security / Handcuffs
 4941,Home / Safety & Security / Handheld Metal Detectors
 4942,Home / Safety & Security / Hidden Cameras
-4943,Home / Safety & Security / Intercom Systems
 4944,Home / Safety & Security / Metal Detectors
 4945,Home / Safety & Security / Video Recorders
 4946,Home / Storage / Baskets
@@ -4955,11 +4916,9 @@
 4953,Home / Storage / Hooks
 4954,Home / Storage / Household Organisers
 4955,Home / Storage / Jewellery Cases
-4956,Home / Storage / Organiser Boxes
 4957,Home / Storage / Organiser Racks & Boxes
 4958,Home / Storage / Pails & Drums
 4959,Home / Storage / Refrigerator Organisers
-4960,Home / Storage / Shoe Organisers
 4961,Home / Storage / Tubs & Pails
 4962,Home / Storage / Water Barrels
 4963,Home / Storage / Water Drums
@@ -5041,7 +5000,6 @@
 5039,Music / Instruments / Guitar Accessories
 5040,Music / Instruments / Instrument Care
 5041,Music / Instruments / Instrument Mutes
-5042,Music / Instruments / Keyboard Instruments
 5043,Music / Instruments / Microphone Cables
 5044,Music / Instruments / Sheet Music Stands
 5045,Music / Instruments / String Cleaners
@@ -5081,7 +5039,6 @@
 5079,Sports & Outdoors / Camping & Hiking / Knife Sheaths
 5080,Sports & Outdoors / Camping & Hiking / Sheaths & Holsters
 5081,Sports & Outdoors / Camping & Hiking / Survival Kits
-5082,Sports & Outdoors / Camping & Hiking / Telescopes
 5083,Sports & Outdoors / Camping & Hiking / Water Bottles
 5084,Sports & Outdoors / Climbing / Carabiners
 5085,Sports & Outdoors / Climbing / Climbing Holds
@@ -5119,7 +5076,6 @@
 5117,Sports & Outdoors / Fishing / Fishing Nets
 5118,Sports & Outdoors / Fishing / Night Fishing Lights
 5119,Sports & Outdoors / Fishing / Sinkers
-5120,Sports & Outdoors / Fitness / Abdominal Trainers
 5121,Sports & Outdoors / Fitness / Agility Training
 5122,Sports & Outdoors / Fitness / Balance Discs
 5123,Sports & Outdoors / Fitness / Barbell Collars
@@ -5128,9 +5084,7 @@
 5126,Sports & Outdoors / Fitness / Elliptical Trainers
 5127,Sports & Outdoors / Fitness / Exercise Mats
 5128,Sports & Outdoors / Fitness / Gym Bottles
-5129,Sports & Outdoors / Fitness / Gym Machines
 5130,Sports & Outdoors / Fitness / Gymnastics Mats
-5131,Sports & Outdoors / Fitness / Hand Exercisers
 5132,Sports & Outdoors / Fitness / Home Gyms
 5133,Sports & Outdoors / Fitness / Jump Ropes
 5134,Sports & Outdoors / Fitness / Knee Sleeves
@@ -5219,7 +5173,6 @@
 5217,Toys & Games / Pretend Play / Toy Kitchen Appliances
 5218,Toys & Games / Pretend Play / Toy Tools
 5219,Toys & Games / Ride-On Vehicles / Hoverboard Accessories
-5220,Toys & Games / Ride-On Vehicles / Pedal Cars
 5221,Toys & Games / Sports Toys / Bowling Sets
 5222,Toys & Games / Sports Toys / Button Football
 5223,Toys & Games / Sports Toys / Hula Hoops
@@ -5299,7 +5252,6 @@
 5297,Food / Baked Goods / Bread / Italian Bread
 5298,Food / Baked Goods / Bread / Tortillas
 5299,Food / Baked Goods / Cakes / Mini Cakes
-5300,Food / Baked Goods / Cakes / Swiss Rolls
 5301,Food / Baked Goods / Pastries / Tarts
 5302,Food / Beverages / Alcoholic Beverages / Beer Gift Packs
 5303,Food / Beverages / Alcoholic Beverages / Beer Multipacks
@@ -5332,7 +5284,6 @@
 5330,Food / Dairy / Cream / Table Cream
 5331,Food / Dairy / Cream / Whipped Cream
 5332,Food / Dairy / Milk / Chocolate Milk
-5333,Food / Dairy / Milk / Lactic Beverages
 5334,Food / Dairy / Milk / Pasteurized Milk
 5335,Food / Dairy / Milk / Protein Milk Drinks
 5336,Food / Dairy / Milk / UHT Milk
@@ -5343,7 +5294,6 @@
 5341,Food / Frozen Food / Burgers / Beef Burgers
 5342,Food / Frozen Food / Desserts / Ice Cream Cones
 5343,Food / Frozen Food / Desserts / Ice Cream Toppings
-5344,Food / Frozen Food / Desserts / Popsicles
 5345,Food / Frozen Food / Nuggets & Breaded / Breaded Chicken
 5346,Food / Frozen Food / Vegan / Savoury Snacks
 5347,Food / Meat & Seafood / Beef / Beef Jerky
@@ -5422,7 +5372,6 @@
 5420,Hardware / Tools / Hand Tools / Anvils
 5421,Hardware / Tools / Hand Tools / Axes
 5422,Hardware / Tools / Hand Tools / Bearing Pullers
-5423,Hardware / Tools / Hand Tools / Bench Vises
 5424,Hardware / Tools / Hand Tools / Box Spanners
 5425,Hardware / Tools / Hand Tools / Box Wrenches
 5426,Hardware / Tools / Hand Tools / Bushing Pullers
@@ -5455,8 +5404,6 @@
 5453,Hardware / Tools / Hand Tools / Magnetic Pickup Tools
 5454,Hardware / Tools / Hand Tools / Magnifiers
 5455,Hardware / Tools / Hand Tools / Manifold Gauges
-5456,Hardware / Tools / Hand Tools / Masonry Trowels
-5457,Hardware / Tools / Hand Tools / Measuring Tools
 5458,Hardware / Tools / Hand Tools / Metal Stamps
 5459,Hardware / Tools / Hand Tools / Micrometers
 5460,Hardware / Tools / Hand Tools / Moisture Meters
@@ -5521,7 +5468,6 @@
 5519,Hardware / Tools / Power Tools / Condensate Drains
 5520,Hardware / Tools / Power Tools / Cut-Off Saws
 5521,Hardware / Tools / Power Tools / Dust Extractors
-5522,Hardware / Tools / Power Tools / Miter Saws
 5523,Hardware / Tools / Power Tools / Mortar Mixers
 5524,Hardware / Tools / Power Tools / Nailers
 5525,Hardware / Tools / Power Tools / Paint Mixers
@@ -5597,9 +5543,7 @@
 5595,Health / Medical Supplies / Personal Protective Equipment / Gloves
 5596,Health / Medical Supplies / Personal Protective Equipment / Hearing Protection
 5597,Health / Medical Supplies / Personal Protective Equipment / Respirator Cartridges
-5598,Health / Medical Supplies / Personal Protective Equipment / Safety Boots
 5599,Health / Medical Supplies / Personal Protective Equipment / Welding Lenses
-5600,Health / Personal Health Care / Feminine Hygiene / Intimate Soap
 5601,Health / Personal Health Care / Incontinence / Adult Diapers
 5602,Health / Personal Health Care / Incontinence / Incontinence Pads
 5603,Health / Personal Health Care / Incontinence / Incontinence Underwear
@@ -5657,7 +5601,6 @@
 5655,Home / Appliances / Appliance Parts / Pressure Switches
 5656,Home / Appliances / Appliance Parts / Pulleys
 5657,Home / Appliances / Appliance Parts / Refrigeration Parts
-5658,Home / Appliances / Appliance Parts / Refrigerator Accessories
 5659,Home / Appliances / Appliance Parts / Sewing Machine Pedals
 5660,Home / Appliances / Appliance Parts / Stove Burners
 5661,Home / Appliances / Appliance Parts / Temperature Sensors
@@ -5678,7 +5621,6 @@
 5676,Home / Appliances / Climate / Air Conditioner Deflectors
 5677,Home / Appliances / Climate / Air Conditioner Drain Pumps
 5678,Home / Appliances / Climate / Air Conditioner Hoses
-5679,Home / Appliances / Climate / Air Conditioning Parts
 5680,Home / Appliances / Climate / Air Filters
 5681,Home / Appliances / Climate / Air Vents
 5682,Home / Appliances / Climate / Dehumidifiers
@@ -5691,10 +5633,8 @@
 5689,Home / Appliances / Climate / Ventilation Grilles
 5690,Home / Appliances / Coffee Machines / Milk Frothers
 5691,Home / Appliances / Electric Cookers / Egg Cookers
-5692,Home / Appliances / Kitchen Appliances / Electric Kettles
 5693,Home / Appliances / Kitchen Appliances / Yogurt Makers
 5694,Home / Appliances / Kitchen Machines / Food Choppers
-5695,Home / Appliances / Kitchen Machines / Juice Extractors
 5696,Home / Appliances / Kitchen Machines / Manual Food Choppers
 5697,Home / Appliances / Kitchen Machines / Milk Frothers
 5698,Home / Appliances / Kitchen Machines / Pasta Makers
@@ -5718,15 +5658,12 @@
 5716,Home / Appliances / Vacuum Cleaners / Mini Vacuums
 5717,Home / Appliances / Vacuum Cleaners / Vacuum Filters
 5718,Home / Appliances / Water Dispensers / Water Bottle Pumps
-5719,Home / Bathroom / Basins & Sinks / Washbasins
-5720,Home / Bathroom / Showers / Bidet Sprays
 5721,Home / Bathroom / Showers / Hand Showers
 5722,Home / Bathroom / Showers / Shower Arms
 5723,Home / Bathroom / Toilets / Close-Coupled Toilets
 5724,Home / Decor / Cushions & Covers / Chair Cushions
 5725,Home / Decor / Cushions & Covers / Cushion Inserts
 5726,Home / Decor / Decorative Objects / Hourglasses
-5727,Home / Decor / Decorative Objects / Piggy Banks
 5728,Home / Decor / Decorative Objects / Water Fountains
 5729,Home / Decor / Rugs / Area Rugs
 5730,Home / Decor / Wallpaper & Decals / Wallpaper
@@ -5743,7 +5680,6 @@
 5741,Home / Household Supplies / Baking Supplies / Parchment Paper
 5742,Home / Household Supplies / Cleaning Supplies / Appliance Cleaners
 5743,Home / Household Supplies / Cleaning Supplies / Cement Removers
-5744,Home / Household Supplies / Cleaning Supplies / Chlorine Bleach
 5745,Home / Household Supplies / Cleaning Supplies / Fabric Protectors
 5746,Home / Household Supplies / Cleaning Supplies / Jewellery Cleaners
 5747,Home / Household Supplies / Cleaning Supplies / Leather Care
@@ -5760,7 +5696,6 @@
 5758,Home / Household Supplies / Cleaning Tools / Scrub Brushes
 5759,Home / Household Supplies / Cleaning Tools / Squeegee Blades
 5760,Home / Household Supplies / Cleaning Tools / Window Cleaners
-5761,Home / Household Supplies / Cleaning Tools / Window Squeegees
 5762,Home / Household Supplies / Cleaning Tools / Wire Brushes
 5763,Home / Household Supplies / Gift Wrap / Gift Wrapping Kits
 5764,Home / Household Supplies / Laundry / Clothes Pegs
@@ -5828,7 +5763,6 @@
 5826,Home / Kitchen / Knives / Knife Storage
 5827,Home / Kitchen / Serving Ware / Sushi Sets
 5828,Home / Kitchen / Serving Ware / Trays
-5829,Home / Kitchen / Table Linens / Kitchen Towels
 5830,Home / Kitchen / Table Linens / Napkin Holders
 5831,Home / Kitchen / Table Linens / Napkin Rings
 5832,Home / Kitchen / Table Linens / Napkins
