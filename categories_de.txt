@@ -1,5 +1,5 @@
 # NDX Technologies Product Category
-# Version: v26390002
+# Version: v26450000
 1,Tiere & Haustiere
 2,Tiere & Haustiere / Tiergesundheit
 3,Tiere & Haustiere / Tiergesundheit / Anatomische Modelle

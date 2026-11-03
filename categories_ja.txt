@@ -1,5 +1,5 @@
 # NDX Technologies Product Category
-# Version: v26390002
+# Version: v26450000
 1,ペット・動物
 2,ペット・動物 / 動物用ヘルスケア
 3,ペット・動物 / 動物用ヘルスケア / 解剖模型

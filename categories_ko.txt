@@ -1,5 +1,5 @@
 # NDX Technologies Product Category
-# Version: v26390002
+# Version: v26450000
 1,동물 및 반려동물
 2,동물 및 반려동물 / 동물 건강
 3,동물 및 반려동물 / 동물 건강 / 해부 모형
